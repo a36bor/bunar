@@ -10,7 +10,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs31" />
   <sodipodi:namedview
@@ -23,7 +26,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="10.826087"
-     inkscape:cx="52.696787"
+     inkscape:cx="48.540161"
      inkscape:cy="13.993976"
      inkscape:window-width="1600"
      inkscape:window-height="838"
@@ -48,14 +51,21 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7031px;line-height:0.95;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10109"
-     x="-0.1811846"
-     y="24.967684"
-     id="text7658"
-     transform="scale(0.92317355,1.0832199)"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="1.939759"
+     y="24.93976"
+     id="text35105"><tspan
        sodipodi:role="line"
-       id="tspan7656"
-       x="-0.1811846"
-       y="24.967684"
-       style="stroke-width:1.10109">Bunar</tspan></text>
+       id="tspan35103"
+       x="1.939759"
+       y="24.93976">Bunar</tspan></text>
+  <metadata
+     id="metadata45558">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
