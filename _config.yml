@@ -5,8 +5,8 @@ baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://bunar.org" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Dolzhnenko
-  name: Lina
+author: 
+  name: Lina Dolzhnenko
   bio: Hi, my name is Lina Dolzhnenko. Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field. Thank you for visiting my blog.
 
 # Contact links
