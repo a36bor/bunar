@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=217'
 permalink: /blog/allocation-of-resources-social-and-political-factors.html
-swp_cache_timestamp:
-    - '461931'
+image: bimg/allocation-of-resources-social-and-political-factors.jpg
 categories:
     - blog
 ---
