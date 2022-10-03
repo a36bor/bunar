@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=221'
 permalink: /blog/fee-for-service-system-of-care.html
-swp_cache_timestamp:
-    - '461463'
+image: bimg/fee-for-service-system-of-care.jpg
 categories:
     - blog
 ---
