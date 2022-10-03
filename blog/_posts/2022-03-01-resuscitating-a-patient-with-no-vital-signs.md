@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=109'
 permalink: /blog/resuscitating-a-patient-with-no-vital-signs.html
-swp_cache_timestamp:
-    - '461560'
+image: bimg/resuscitating-a-patient-with-no-vital-signs.jpg
 categories:
     - blog
 ---
