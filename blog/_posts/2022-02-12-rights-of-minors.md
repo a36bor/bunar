@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=92'
 permalink: /blog/rights-of-minors.html
-swp_cache_timestamp:
-    - '461931'
+image: bimg/rights-of-minors.jpg
 categories:
     - blog
 ---
