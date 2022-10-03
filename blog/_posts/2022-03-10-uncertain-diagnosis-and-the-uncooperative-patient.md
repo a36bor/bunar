@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=94'
 permalink: /blog/uncertain-diagnosis-and-the-uncooperative-patient.html
-swp_cache_timestamp:
-    - '461908'
+image: bimg/uncertain-diagnosis-and-the-uncooperative-patient.jpg
 categories:
     - blog
 ---
