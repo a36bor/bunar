@@ -6,12 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=82'
 permalink: /blog/what-is-ethics.html
-ssb_old_counts:
-    - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-    - '0'
-swp_cache_timestamp:
-    - '462116'
+image: bimg/what-is-ethics.jpg
 categories:
     - blog
 ---
@@ -30,7 +25,7 @@ These social scientists describe and attempt to explain what persons who are mem
 
 Descriptive ethics is not concerned with assessing the ethical beliefs it describes and explains. In other words, the descriptive ethicist as such does not attempt to determine whether the ethical beliefs he studies are correct or incorrect, justified or unjustified, or even consistent with one another.
 
-In contrast, normative ethics is con­cerned with trying to determine what we ought to do, not simply with what a particular group thinks we ought to do.
+In contrast, normative ethics is concerned with trying to determine what we ought to do, not simply with what a particular group thinks we ought to do.
 
 Metaethics differs both from normative ethics and from descriptive ethics.
 
