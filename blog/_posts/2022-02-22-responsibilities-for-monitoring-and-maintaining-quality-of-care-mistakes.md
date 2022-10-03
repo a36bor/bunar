@@ -1,6 +1,6 @@
 ---
 id: 231
-title: 'Responsibilities for monitoring and maintaining quality of care &#8211; mistakes'
+title: 'Responsibilities for monitoring and maintaining quality of care - mistakes'
 date: '2022-02-22T04:11:09+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
