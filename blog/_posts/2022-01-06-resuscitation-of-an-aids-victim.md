@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=213'
 permalink: /blog/resuscitation-of-an-aids-victim.html
-swp_cache_timestamp:
-    - '461930'
+image: bimg/resuscitation-of-an-aids-victim.jpg
 categories:
     - blog
 ---
