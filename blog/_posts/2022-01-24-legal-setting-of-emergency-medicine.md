@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=80'
 permalink: /blog/legal-setting-of-emergency-medicine.html
-swp_cache_timestamp:
-    - '461937'
+image: bimg/legal-setting-of-emergency-medicine.jpg
 categories:
     - blog
 ---
