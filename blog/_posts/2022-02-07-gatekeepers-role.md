@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=227'
 permalink: /blog/gatekeepers-role.html
-swp_cache_timestamp:
-    - '461914'
+image: bimg/gatekeepers-role.jpg
 categories:
     - blog
 ---
