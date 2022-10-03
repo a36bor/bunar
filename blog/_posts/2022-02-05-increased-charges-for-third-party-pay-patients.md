@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=223'
 permalink: /blog/increased-charges-for-third-party-pay-patients.html
-swp_cache_timestamp:
-    - '461588'
+image: bimg/increased-charges-for-third-party-pay-patients.jpg
 categories:
     - blog
 ---
