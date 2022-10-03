@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=107'
 permalink: /blog/security-of-the-emergency-medical-service-system-emss-radio-network.html
-swp_cache_timestamp:
-    - '461937'
+image: bimg/security-of-the-emergency-medical-service-system-emss-radio-network.jpg
 categories:
     - blog
 ---
