@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=215'
 permalink: /blog/manipulative-patient-irresponsible-family-and-nursing-home-dump.html
-swp_cache_timestamp:
-    - '461837'
+image: bimg/manipulative-patient-irresponsible-family-and-nursing-home-dump.jpg
 categories:
     - blog
 ---
