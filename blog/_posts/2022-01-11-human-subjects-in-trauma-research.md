@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=101'
 permalink: /blog/human-subjects-in-trauma-research.html
-swp_cache_timestamp:
-    - '460836'
+image: bimg/human-subjects-in-trauma-research.jpg
 categories:
     - blog
 ---
