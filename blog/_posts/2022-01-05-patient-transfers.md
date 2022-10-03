@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=209'
 permalink: /blog/patient-transfers.html
-swp_cache_timestamp:
-    - '462037'
+image: bimg/patient-transfers.jpg
 categories:
     - blog
 ---
