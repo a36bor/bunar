@@ -1,6 +1,6 @@
 ---
 id: 233
-title: 'Physician&#8217;s quality of life versus quality of patient care'
+title: 'Physician's quality of life versus quality of patient care'
 date: '2022-01-05T00:30:26+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
