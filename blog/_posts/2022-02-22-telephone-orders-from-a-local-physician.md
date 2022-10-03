@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=249'
 permalink: /blog/telephone-orders-from-a-local-physician.html
-swp_cache_timestamp:
-    - '461930'
+image: bimg/telephone-orders-from-a-local-physician.jpg
 categories:
     - blog
 ---
