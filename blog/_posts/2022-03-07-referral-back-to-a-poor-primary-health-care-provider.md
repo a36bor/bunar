@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=241'
 permalink: /blog/referral-back-to-a-poor-primary-health-care-provider.html
-swp_cache_timestamp:
-    - '461844'
+image: bimg/referral-back-to-a-poor-primary-health-care-provider.jpg
 categories:
     - blog
 ---
