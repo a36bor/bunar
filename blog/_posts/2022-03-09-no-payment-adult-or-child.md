@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=225'
 permalink: /blog/no-payment-adult-or-child.html
-swp_cache_timestamp:
-    - '461907'
+image: bimg/no-payment-adult-or-child.jpg
 categories:
     - blog
 ---
