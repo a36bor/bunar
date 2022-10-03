@@ -1,6 +1,6 @@
 ---
 id: 227
-title: '“Gatekeeper&#8217;s” role'
+title: '“Gatekeeper's” role'
 date: '2022-02-07T07:03:01+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
