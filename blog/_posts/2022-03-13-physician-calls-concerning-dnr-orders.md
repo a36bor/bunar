@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=235'
 permalink: /blog/physician-calls-concerning-dnr-orders.html
-swp_cache_timestamp:
-    - '461017'
+image: bimg/physician-calls-concerning-dnr-orders.jpg
 categories:
     - blog
 ---
