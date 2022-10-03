@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=211'
 permalink: /blog/good-samaritan-behavior-and-failure-to-stop-laws.html
-swp_cache_timestamp:
-    - '461931'
+image: bimg/good-samaritan-behavior-and-failure-to-stop-laws.jpg
 categories:
     - blog
 ---
