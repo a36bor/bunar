@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=247'
 permalink: /blog/telephone-consultations-to-families-and-other-health-care-providers.html
-swp_cache_timestamp:
-    - '460100'
+image: bimg/telephone-consultations-to-families-and-other-health-care-providers.jpg
 categories:
     - blog
 ---
