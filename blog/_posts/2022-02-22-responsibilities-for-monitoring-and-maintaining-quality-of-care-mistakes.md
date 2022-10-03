@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=231'
 permalink: /blog/responsibilities-for-monitoring-and-maintaining-quality-of-care-mistakes.html
-swp_cache_timestamp:
-    - '461929'
+image: bimg/responsibilities-for-monitoring-and-maintaining-quality-of-care-mistakes.jpg
 categories:
     - blog
 ---
