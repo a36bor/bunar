@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=99'
 permalink: /blog/human-subjects-in-cardiopulmonary-resuscitation-research.html
-swp_cache_timestamp:
-    - '461582'
+image: bimg/human-subjects-in-cardiopulmonary-resuscitation-research.jpg
 categories:
     - blog
 ---
