@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=237'
 permalink: /blog/delegating-the-notification-of-death-to-others.html
-swp_cache_timestamp:
-    - '461921'
+image: bimg/delegating-the-notification-of-death-to-others.jpg
 categories:
     - blog
 ---
