@@ -6,12 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=103'
 permalink: /blog/legal-requirements-for-notification.html
-ssb_old_counts:
-    - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-    - '0'
-swp_cache_timestamp:
-    - '461846'
+image: bimg/legal-requirements-for-notification.jpg
 categories:
     - blog
 ---
