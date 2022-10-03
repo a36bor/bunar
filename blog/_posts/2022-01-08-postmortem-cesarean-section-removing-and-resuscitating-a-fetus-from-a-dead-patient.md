@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=117'
 permalink: /blog/postmortem-cesarean-section-removing-and-resuscitating-a-fetus-from-a-dead-patient.html
-swp_cache_timestamp:
-    - '461937'
+image: bimg/postmortem-cesarean-section-removing-and-resuscitating-a-fetus-from-a-dead-patient.jpg
 categories:
     - blog
 ---
