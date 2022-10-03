@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=233'
 permalink: /blog/physicians-quality-of-life-versus-quality-of-patient-care.html
-swp_cache_timestamp:
-    - '461571'
+image: bimg/physicians-quality-of-life-versus-quality-of-patient-care.jpg
 categories:
     - blog
 ---
