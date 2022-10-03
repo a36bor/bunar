@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=88'
 permalink: /blog/the-question-of-competence.html
-swp_cache_timestamp:
-    - '461702'
+image: bimg/the-question-of-competence.jpg
 categories:
     - blog
 ---
