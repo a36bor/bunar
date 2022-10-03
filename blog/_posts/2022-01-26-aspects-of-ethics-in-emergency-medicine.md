@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=76'
 permalink: /blog/aspects-of-ethics-in-emergency-medicine.html
-swp_cache_timestamp:
-    - '461937'
+image: bimg/aspects-of-ethics-in-emergency-medicine.jpg
 categories:
     - blog
 ---
