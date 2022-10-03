@@ -6,14 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=243'
 permalink: /blog/conscientious-objections-bad-orders.html
-ssb_old_counts:
-    - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-    - '0'
-ssb_cache_timestamp:
-    - '458265'
-swp_cache_timestamp:
-    - '462225'
+image: bimg/conscientious-objections-bad-orders.jpg
 categories:
     - blog
 ---
