@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=239'
 permalink: /blog/denial-of-antipregnancy-prophylaxis-to-a-rape-victim.html
-swp_cache_timestamp:
-    - '461565'
+image: bimg/denial-of-antipregnancy-prophylaxis-to-a-rape-victim.jpg
 categories:
     - blog
 ---
