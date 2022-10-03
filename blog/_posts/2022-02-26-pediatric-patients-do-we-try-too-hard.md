@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=113'
 permalink: /blog/pediatric-patients-do-we-try-too-hard.html
-swp_cache_timestamp:
-    - '461844'
+image: bimg/pediatric-patients-do-we-try-too-hard.jpg
 categories:
     - blog
 ---
