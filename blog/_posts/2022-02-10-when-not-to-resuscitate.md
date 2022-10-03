@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=111'
 permalink: /blog/when-not-to-resuscitate.html
-swp_cache_timestamp:
-    - '459895'
+image: bimg/when-not-to-resuscitate.jpg
 categories:
     - blog
 ---
