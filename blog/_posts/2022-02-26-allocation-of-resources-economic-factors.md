@@ -6,8 +6,7 @@ author: 'Lina Dolzhnenko'
 layout: post
 guid: 'https://bunar.org/?p=219'
 permalink: /blog/allocation-of-resources-economic-factors.html
-swp_cache_timestamp:
-    - '461588'
+image: bimg/allocation-of-resources-economic-factors.jpg
 categories:
     - blog
 ---
