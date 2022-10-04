@@ -9,9 +9,7 @@ swp_cache_timestamp:
     - '462116'
 ---
 
-<span data-keep-original-tag="false" data-original-attrs="{"style":"mso-ansi-language: EN-US;","lang":"EN-US"}">Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field.</span>
-
-![](https://bunar.org/wp-content/uploads/2022/06/Author_Dolzhnenko_Lina.png)
+Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field.
 
 Compassionate doctor who always considers my patients’ needs and comfort levels during diagnosis and treatment, and works to ensure they have the best possible experience.
 
