@@ -9,7 +9,7 @@ Highly qualified orthopedic surgeon with 3 years of experience in the industry a
 
 Compassionate doctor who always considers my patients’ needs and comfort levels during diagnosis and treatment, and works to ensure they have the best possible experience.
 
-<img src=”https://bunar.org/images/Dolzhnenko_Lina.jpg“>
+<img src=”/images/Dolzhnenko_Lina.jpg“>
 
 **Skills**
 
