@@ -1,15 +1,15 @@
 ---
-id: 124
 title: Author
 date: '2022-04-06T11:52:44+00:00'
 author: 'Lina Dolzhnenko'
 layout: page
-image: images/Dolzhnenko_Lina.jpg
 ---
 
 Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field.
 
 Compassionate doctor who always considers my patients’ needs and comfort levels during diagnosis and treatment, and works to ensure they have the best possible experience.
+
+<img src=”https://bunar.org/images/Dolzhnenko_Lina.jpg“>
 
 **Skills**
 
