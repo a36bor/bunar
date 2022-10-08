@@ -14,7 +14,7 @@ They are also less materialistic, less fearful and less judgmental. How do we ac
 
 Becoming a better person is hard work that involves continuous effort and self-improvement in various areas of life. However, it is possible with commitment and practice in habits of good character – which are called virtues.
 
-**What is a virtue?**
+## What is a virtue? ##
 
 A virtue is an excellent quality of character, an admirable trait or a good habit. It is an important part of human flourishing. There are many different kinds of virtues, some of which overlap.
 
@@ -22,7 +22,7 @@ You can be honest in some situations and dishonest in others. You can have some 
 
 Virtues are not just things that you do sometimes, but things that you are. They are part of your character and identity. They are not always easy to spot in ourselves, however, because we often deceive ourselves. We have self-serving biases, we tend to think selectively, and we have blind spots.
 
-**Become an ethical skeptic**
+## Become an ethical skeptic ##
 
 Becoming an ethical skeptic involves recognizing and reflecting on our biases, expectations and tribalism. It means being open-minded, open-hearted and critical at the same time.
 
@@ -32,7 +32,7 @@ Ethical skepticism is the commitment to find and follow the facts, and to be ope
 
 Ethical skepticism involves the unity of head and heart. It is realizing that our emotions and instincts sometimes mislead us, and that our heads often contain the evidence we need to see past them. Ethical skepticism is about having an open heart but a discerning mind.
 
-**Be skeptical in all things**
+## Be skeptical in all things ##
 
 We are often quick to attach ourselves to political parties, social causes and various kinds of religions. However, these commitments are often based on tribalism, fear, ignorance or greed.
 
@@ -42,7 +42,7 @@ We must be careful not to be blindly loyal to any individual or group, even if t
 
 You need to be aware that you are distorting information and ignoring facts that challenge your beliefs. You must also be aware of the fact that you are distorting information and ignoring facts that challenge others’ beliefs.
 
-**Be brave**
+## Be brave ##
 
 If you want to be courageous, you must first understand your fears. If you want to overcome them, you must first identify them. Most of us never do this, and as a result, many of us are held hostage by our fears.
 
@@ -54,7 +54,7 @@ You can practice mindfulness meditation to face your fears and become more prese
 
 They only cause you to live in the past and make you angry at those who have wronged you. This will only make you fearful and unable to be courageous.
 
-**Be just**
+## Be just ##
 
 If you want to be a just person, you must be willing to make decisions and judgments based on evidence, reason and principles. You must be willing to stand up for what is right in the face of societal pressure, personal desire and even the law.
 
@@ -64,7 +64,7 @@ You must be willing to be unpopular, be deceived, be hurt and be wrong. Being ju
 
 It means that you are willing to make honest mistakes, and make sacrifices for what is right. It means being fully human.
 
-**Be knowledgeable and wise**
+## Be knowledgeable and wise ##
 
 To become a wise person, you must be willing to learn from others, from your own experiences and from history. You must be willing to learn continuously throughout your life and be open to new ideas and new ways of thinking.
 
@@ -74,7 +74,7 @@ To become a wise person, you must be willing to challenge your own beliefs and b
 
 We must be willing to challenge what we think we know and look at it in new ways. We must be willing to question our assumptions and biases. We must be willing to stay open in the face of new information, and change in the face of new evidence.
 
-**Conclusion**
+## Conclusion ##
 
 Becoming a better person is not easy or straightforward. It takes effort and commitment, and it means changing many aspects of your behavior and approach to life.
 
