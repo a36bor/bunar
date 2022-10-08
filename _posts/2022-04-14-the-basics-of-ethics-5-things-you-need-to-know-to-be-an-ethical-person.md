@@ -14,7 +14,7 @@ If you have ever been told that you have the potential to be such a good person 
 
 Being an ethical person may seem like a scary proposition — after all, we live in a world where “unethical” has become synonymous with “successful” — but it doesn’t take much to get started. Here are 5 tips for becoming an ethical person!
 
-**Be honest**
+## Be honest ##
 
 Honesty is the foundation of all ethical behavior. If you can’t be honest with yourself and others, then everything else on this list is irrelevant. Honesty is not just about avoiding lying.
 
@@ -26,7 +26,7 @@ Most importantly, if you’re honest, you can be at peace with yourself. You won
 
 You’ll also feel very comfortable in your own skin. It’s difficult to be ethical when you’re constantly trying to cover up your mistakes, but it’s easy to be ethical when you’re willing to own up to them.
 
-**Be kind**
+## Be kind ##
 
 Being kind is more than just being friendly and smiling a lot. It’s about being interested in the people around you and making their lives better. This doesn’t have to mean giving away all of your money.
 
@@ -38,7 +38,7 @@ Being kind doesn’t have to be a huge thing. It can be something as simple as h
 
 Doing small things like this can help you to feel better about yourself, which will make it easier to be kind to others.
 
-**Be fair and equitable**
+## Be fair and equitable ##
 
 Being fair and equitable means that you give everyone the same or similar treatment. Being fair doesn’t mean that you should be soft on yourself and be a pushover.
 
@@ -48,7 +48,7 @@ If you have a rule that all meetings have to end by a certain time, then you sho
 
 If you have a rule that meetings shouldn’t last more than an hour, then neither should your own meetings. If you have a rule that all co-workers have to take notes during meetings, then you should take notes during your own meetings too.
 
-**Be transparent and accountable**
+## Be transparent and accountable ##
 
 Being transparent means that you’re not hiding things from others. You’re willing to share your perspective and thoughts without shame, and without expecting anything in return.
 
@@ -58,7 +58,7 @@ For example, you could share your values with your co-workers so they know how y
 
 When someone asks you a question, you have to have a clear and simple answer for it. You don’t have to give long and drawn-out explanations, but you have to have a straightforward answer that doesn’t leave people hanging.
 
-**Be diligent and responsive to feedback**
+## Be diligent and responsive to feedback ##
 
 Being diligent means that you’re not easily distracted. You’re able to focus and commit yourself to whatever needs to be done. You take initiative in solving problems, and you care about the things that you do.
 
@@ -68,7 +68,7 @@ If you want to be an ethical person, you have to be able to listen to criticism 
 
 It’s easy to tell yourself that you’re doing everything the right way, but it’s more difficult to actually be open to feedback and use it to improve.
 
-**Conclusion**
+## Conclusion ##
 
 This article shows that being an ethical person goes beyond simply not breaking the law. In fact, there are many laws that are unethical and breakable.
 
