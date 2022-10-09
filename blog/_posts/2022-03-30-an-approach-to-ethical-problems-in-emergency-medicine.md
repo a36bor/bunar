@@ -1,19 +1,17 @@
 ---
-id: 84
 title: 'An approach to ethical problems in emergency medicine'
 date: '2022-03-30T19:00:24+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=84'
 permalink: /blog/an-approach-to-ethical-problems-in-emergency-medicine.html
 image: bimg/an-approach-to-ethical-problems-in-emergency-medicine.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A two-car accident occurs in central Amityville. The driver of one car is taken to Amity General, where he is found to be severely injured. The driver of the other vehicle is taken in critical condition to the Crosstown emergency department (ED).
 ---
 
 A two-car accident occurs in central Amityville. The driver of one car is taken to Amity General, where he is found to be severely injured. The driver of the other vehicle is taken in critical condition to the Crosstown emergency department (ED).
 
-The emer­gency physician at Amity General, Dr. Roy, is presented with a patient who is apneic (not breathing) and has obvious severe head and chest injuries. Despite aggressive therapy, the patient dies.
+The emergency physician at Amity General, Dr. Roy, is presented with a patient who is apneic (not breathing) and has obvious severe head and chest injuries. Despite aggressive therapy, the patient dies.
 
 The patient at Crosstown ED has significant abdominal injuries. After appropriate therapy, he is readied for surgery.
 
