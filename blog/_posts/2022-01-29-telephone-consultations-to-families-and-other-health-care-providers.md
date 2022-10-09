@@ -1,14 +1,12 @@
 ---
-id: 247
 title: 'Telephone consultations to families and other health care providers'
 date: '2022-01-29T11:37:26+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=247'
 permalink: /blog/telephone-consultations-to-families-and-other-health-care-providers.html
 image: bimg/telephone-consultations-to-families-and-other-health-care-providers.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A registered nurse working in a busy emergency department receives a call from a mother whose two-year-old child has diarrhea and is vomiting. The mother wants to know what to do.
 ---
 
 A registered nurse working in a busy emergency department receives a call from a mother whose two-year-old child has diarrhea and is vomiting. The mother wants to know what to do.
