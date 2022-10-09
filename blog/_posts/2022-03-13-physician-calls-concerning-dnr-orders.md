@@ -1,14 +1,12 @@
 ---
-id: 235
 title: 'Physician calls concerning DNR orders'
 date: '2022-03-13T11:16:18+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=235'
 permalink: /blog/physician-calls-concerning-dnr-orders.html
 image: bimg/physician-calls-concerning-dnr-orders.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A community physician on staff at Alpha Hospital calls the emergency department there and informs the physician on duty that a patient of his, a 43-year-old woman, is going to arrive in extremis from “terminal” breast carcinoma.
 ---
 
 A community physician on staff at Alpha Hospital calls the emergency department there and informs the physician on duty that a patient of his, a 43-year-old woman, is going to arrive in extremis from “terminal” breast carcinoma.
