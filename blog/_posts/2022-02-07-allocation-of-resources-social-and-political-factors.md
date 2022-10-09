@@ -1,14 +1,12 @@
 ---
-id: 217
 title: 'Allocation of resources: social and political factors'
 date: '2022-02-07T15:08:35+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=217'
 permalink: /blog/allocation-of-resources-social-and-political-factors.html
 image: bimg/allocation-of-resources-social-and-political-factors.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Two patients in the emergency department require admission to the intensive care unit (ICU). At this time only one bed is open, so one of the patients must be transferred to another hospital.
 ---
 
 Two patients in the emergency department require admission to the intensive care unit (ICU). At this time only one bed is open, so one of the patients must be transferred to another hospital.
