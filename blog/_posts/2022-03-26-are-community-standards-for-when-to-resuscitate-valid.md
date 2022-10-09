@@ -1,14 +1,12 @@
 ---
-id: 115
 title: 'Are community standards for when to resuscitate valid?'
 date: '2022-03-26T00:48:30+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=115'
 permalink: /blog/are-community-standards-for-when-to-resuscitate-valid.html
 image: bimg/are-community-standards-for-when-to-resuscitate-valid.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 24-year-old man is involved in a motorcycle accident one block from the com­munity hospital. An empty ambulance passes by, scoops him up, and brings him into the emergency department.
 ---
 
 A 24-year-old man is involved in a motorcycle accident one block from the com­munity hospital. An empty ambulance passes by, scoops him up, and brings him into the emergency department.
