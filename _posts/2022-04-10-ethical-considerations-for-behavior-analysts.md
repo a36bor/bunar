@@ -3,6 +3,7 @@ layout: post
 title:  "Ethical Considerations for Behavior Analysts"
 date:   2022-04-10
 image:  images/2022/ethical-considerations-for-behavior-analysts.jpg
+description: Behavior analysts have used a variety of methods to conduct research, analyze data, and ask questions. In this blog post we will explore the ethical considerations of behavior analysts. Behavior analysis is a scientific field that applies principles from biology, psychology, and other fields to understand behavior.
 ---
 
 Behavior analysts have used a variety of methods to conduct research, analyze data, and ask questions. In this blog post we will explore the ethical considerations of behavior analysts. Behavior analysis is a scientific field that applies principles from biology, psychology, and other fields to understand behavior.
