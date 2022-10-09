@@ -1,14 +1,12 @@
 ---
-id: 221
 title: 'Fee-for-service system of care'
 date: '2022-02-20T20:31:53+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=221'
 permalink: /blog/fee-for-service-system-of-care.html
 image: bimg/fee-for-service-system-of-care.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 28-year-old female executive was jogging on her lunch hour and twisted her ankle. Although the soft tissues are swollen, and some support for the ankle is indicated, no fracture is evident on x-ray.
 ---
 
 A 28-year-old female executive was jogging on her lunch hour and twisted her ankle. Although the soft tissues are swollen, and some support for the ankle is indicated, no fracture is evident on x-ray.
