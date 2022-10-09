@@ -1,14 +1,12 @@
 ---
-id: 249
 title: 'Telephone orders from a local physician'
 date: '2022-02-22T02:39:30+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=249'
 permalink: /blog/telephone-orders-from-a-local-physician.html
 image: bimg/telephone-orders-from-a-local-physician.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A physician on the staff of Omega Hospital calls the Omega emergency department and speaks to one of the nurses. He says that a patient of his is coming in with a migraine headache, and he wants the nurse to give the patient 100 mg of Demeral intramuscularly (a normal adult dose).
 ---
 
 A physician on the staff of Omega Hospital calls the Omega emergency department and speaks to one of the nurses. He says that a patient of his is coming in with a migraine headache, and he wants the nurse to give the patient 100 mg of Demeral intramuscularly (a normal adult dose).
