@@ -1,14 +1,12 @@
 ---
-id: 117
 title: 'Postmortem cesarean section: removing and resuscitating a fetus from a dead patient'
 date: '2022-01-08T14:07:52+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=117'
 permalink: /blog/postmortem-cesarean-section-removing-and-resuscitating-a-fetus-from-a-dead-patient.html
 image: bimg/postmortem-cesarean-section-removing-and-resuscitating-a-fetus-from-a-dead-patient.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 16-year-old single girl arrives in the emergency department with a gunshot wound to the head. The entrance wound is just above one ear, and the exit, with brain protruding, is above the other ear (generally a rapidly lethal injury).
 ---
 
 A 16-year-old single girl arrives in the emergency department with a gunshot wound to the head. The entrance wound is just above one ear, and the exit, with brain protruding, is above the other ear (generally a rapidly lethal injury).
