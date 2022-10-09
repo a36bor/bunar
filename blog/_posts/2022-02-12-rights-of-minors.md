@@ -1,14 +1,12 @@
 ---
-id: 92
 title: 'Rights of minors'
 date: '2022-02-12T08:42:41+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=92'
 permalink: /blog/rights-of-minors.html
 image: bimg/rights-of-minors.jpg
-categories:
-    - blog
+tags: [Blog]
+description: An eight-year-old boy walks into the emergency department saying he was riding his bicycle home from school and fell on his wrist. He lives only two blocks away, and because his wrist hurts, he decided to stop by the emergency department to determine whether any treatment is needed.
 ---
 
 An eight-year-old boy walks into the emergency department saying he was riding his bicycle home from school and fell on his wrist. He lives only two blocks away, and because his wrist hurts, he decided to stop by the emergency department to determine whether any treatment is needed.
