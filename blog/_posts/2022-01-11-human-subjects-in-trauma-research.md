@@ -1,14 +1,12 @@
 ---
-id: 101
 title: 'Human subjects in trauma research'
 date: '2022-01-11T13:38:58+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=101'
 permalink: /blog/human-subjects-in-trauma-research.html
 image: bimg/human-subjects-in-trauma-research.jpg
-categories:
-    - blog
+tags: [Blog]
+description: The primary cause of mortality in children and young adults is trauma. Injuries from motor vehicle accidents, bicycle accidents, home injuries, and violent crime take a large toll of our young, otherwise healthy population.
 ---
 
 The primary cause of mortality in children and young adults is trauma. Injuries from motor vehicle accidents, bicycle accidents, home injuries, and violent crime take a large toll of our young, otherwise healthy population.
