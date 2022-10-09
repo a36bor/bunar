@@ -1,19 +1,17 @@
 ---
-id: 109
 title: 'Resuscitating a patient with no vital signs'
 date: '2022-03-01T04:33:58+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=109'
 permalink: /blog/resuscitating-a-patient-with-no-vital-signs.html
 image: bimg/resuscitating-a-patient-with-no-vital-signs.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 25-year-old man is involved in a motorcycle accident and suffers multisystem trauma. When the paramedics arrive on the scene, the patient has no blood pressure, pulse, or spontaneous respirations.
 ---
 
 A 25-year-old man is involved in a motorcycle accident and suffers multisystem trauma. When the paramedics arrive on the scene, the patient has no blood pressure, pulse, or spontaneous respirations.
 
-They transport the patient to the emergency de­partment while performing cardiopulmonary resuscitation. The patient has been down at least ten minutes without vital signs.
+They transport the patient to the emergency department while performing cardiopulmonary resuscitation. The patient has been down at least ten minutes without vital signs.
 
 Patients with blunt trauma, such as motor vehicle accidents, who have no vital signs at the scene, have less than a 1% chance of being resuscitated and eventually leaving the hospital.
 
