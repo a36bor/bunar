@@ -1,14 +1,12 @@
 ---
-id: 239
 title: 'Denial of antipregnancy prophylaxis to a rape victim'
 date: '2022-03-15T20:45:14+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=239'
 permalink: /blog/denial-of-antipregnancy-prophylaxis-to-a-rape-victim.html
 image: bimg/denial-of-antipregnancy-prophylaxis-to-a-rape-victim.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 20-year-old woman is brought to St. Agnes Hospital emergency department after being raped. Medical treatment, begun immediately by emergency department personnel, includes psychological support, a general physical examination, and the standard me­dicolegal rape examination.
 ---
 
 A 20-year-old woman is brought to St. Agnes Hospital emergency department after being raped. Medical treatment, begun immediately by emergency department personnel, includes psychological support, a general physical examination, and the standard me­dicolegal rape examination.
