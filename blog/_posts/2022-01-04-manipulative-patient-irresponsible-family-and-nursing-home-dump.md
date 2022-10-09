@@ -1,14 +1,12 @@
 ---
-id: 215
 title: 'Manipulative patient, irresponsible family, and nursing home “dump”'
 date: '2022-01-04T09:49:17+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=215'
 permalink: /blog/manipulative-patient-irresponsible-family-and-nursing-home-dump.html
 image: bimg/manipulative-patient-irresponsible-family-and-nursing-home-dump.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 40-year-old man walks into a freestanding emergency clinic with a bloody bandage on his head. He explains that he had been in a fight earlier in the evening and is still bleeding; he thinks he probably needs stitches in his head.
 ---
 
 A 40-year-old man walks into a freestanding emergency clinic with a bloody bandage on his head. He explains that he had been in a fight earlier in the evening and is still bleeding; he thinks he probably needs stitches in his head.
