@@ -1,14 +1,12 @@
 ---
-id: 233
 title: 'Physicians quality of life versus quality of patient care'
 date: '2022-01-05T00:30:26+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=233'
 permalink: /blog/physicians-quality-of-life-versus-quality-of-patient-care.html
 image: bimg/physicians-quality-of-life-versus-quality-of-patient-care.jpg
-categories:
-    - blog
+tags: [Blog]
+description: One of Alpha Hospital’s emergency physicians has an opportunity to go on a four-day raft trip, a vacation he has been looking forward to for a long time.
 ---
 
 One of Alpha Hospital’s emergency physicians has an opportunity to go on a four-day raft trip, a vacation he has been looking forward to for a long time.
