@@ -1,14 +1,12 @@
 ---
-id: 80
 title: 'Legal setting of emergency medicine'
 date: '2022-01-24T01:53:41+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=80'
 permalink: /blog/legal-setting-of-emergency-medicine.html
 image: bimg/legal-setting-of-emergency-medicine.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Why have a legal introduction in a website on ethical issues in emergency medicine? Certainly not because ethics and law are synonymous, even though attempts to discuss ethical choices are frequently reduced by the pressures of the moment to worries about legal obligations and risks.
 ---
 
 Why have a legal introduction in a website on ethical issues in emergency medicine? Certainly not because ethics and law are synonymous, even though attempts to discuss ethical choices are frequently reduced by the pressures of the moment to worries about legal obligations and risks.
