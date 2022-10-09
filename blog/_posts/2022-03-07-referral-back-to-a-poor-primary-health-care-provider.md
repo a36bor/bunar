@@ -1,14 +1,12 @@
 ---
-id: 241
 title: 'Referral back to a poor primary health care provider'
 date: '2022-03-07T13:52:51+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=241'
 permalink: /blog/referral-back-to-a-poor-primary-health-care-provider.html
 image: bimg/referral-back-to-a-poor-primary-health-care-provider.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 24-year-old woman arrives in the emergency department complaining that she has felt dizzy for the past month. On this occasion, she was in town shopping when she felt dizzy, and her mother brought her in.
 ---
 
 A 24-year-old woman arrives in the emergency department complaining that she has felt dizzy for the past month. On this occasion, she was in town shopping when she felt dizzy, and her mother brought her in.
