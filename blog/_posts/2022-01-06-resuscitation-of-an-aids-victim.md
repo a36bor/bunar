@@ -1,14 +1,12 @@
 ---
-id: 213
 title: 'Resuscitation of an AIDS victim'
 date: '2022-01-06T13:49:51+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=213'
 permalink: /blog/resuscitation-of-an-aids-victim.html
 image: bimg/resuscitation-of-an-aids-victim.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 30-year-old man collapses in the downtown area of a large city. He is thin and looks chronically ill. A friend is with him and asks people passing by if they know CPR.
 ---
 
 A 30-year-old man collapses in the downtown area of a large city. He is thin and looks chronically ill. A friend is with him and asks people passing by if they know CPR.
