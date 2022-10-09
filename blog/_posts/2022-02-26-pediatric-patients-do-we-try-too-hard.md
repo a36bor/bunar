@@ -1,14 +1,12 @@
 ---
-id: 113
 title: 'Pediatric patients — do we try too hard?'
 date: '2022-02-26T08:26:52+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=113'
 permalink: /blog/pediatric-patients-do-we-try-too-hard.html
 image: bimg/pediatric-patients-do-we-try-too-hard.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A two-year-old child is brought into the emergency department on a warm summer day after having been found floating in a backyard swimming pool.
 ---
 
 A two-year-old child is brought into the emergency department on a warm summer day after having been found floating in a backyard swimming pool.
