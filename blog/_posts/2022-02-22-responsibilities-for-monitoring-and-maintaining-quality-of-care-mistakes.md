@@ -1,14 +1,12 @@
 ---
-id: 231
 title: 'Responsibilities for monitoring and maintaining quality of care - mistakes'
 date: '2022-02-22T04:11:09+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=231'
 permalink: /blog/responsibilities-for-monitoring-and-maintaining-quality-of-care-mistakes.html
 image: bimg/responsibilities-for-monitoring-and-maintaining-quality-of-care-mistakes.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 14-week-old infant is brought to the emergency department at 3 a.m. by his mother, who explains that he has been irritable all night and not sleeping well. On exam, the patient has a temperature of 37.9°C.
 ---
 
 A 14-week-old infant is brought to the emergency department at 3 a.m. by his mother, who explains that he has been irritable all night and not sleeping well. On exam, the patient has a temperature of 37.9°C.
