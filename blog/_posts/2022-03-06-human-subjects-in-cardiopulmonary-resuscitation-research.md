@@ -1,14 +1,12 @@
 ---
-id: 99
 title: 'Human subjects in cardiopulmonary resuscitation research'
 date: '2022-03-06T00:31:00+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=99'
 permalink: /blog/human-subjects-in-cardiopulmonary-resuscitation-research.html
 image: bimg/human-subjects-in-cardiopulmonary-resuscitation-research.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Researchers have shown, in an animal model, that alterations in the technique of cardiopulmonary resuscitation improve blood flow to vital organs and increase survival of animals in cardiac arrest.
 ---
 
 Researchers have shown, in an animal model, that alterations in the technique of cardiopulmonary resuscitation improve blood flow to vital organs and increase survival of animals in cardiac arrest.
