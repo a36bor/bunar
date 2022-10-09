@@ -6,13 +6,13 @@ layout: page
 ---
 
 
+![Consulting services for businesses](/images/consulting_services_for_businesses.jpg)
+
 Businesses of all sizes face an ever-increasing number of regulations and standards. Even small businesses are now subject to government regulations, industry standards, and certification requirements.
 
 With so many regulations and standards to follow, it’s easy for even the most well-intentioned businessperson to make a mistake that could have serious consequences.
 
 That’s why many businesses hire an ethics and compliance consultant. An ethics and compliance consultant will help your business stay compliant with laws, regulations, and industry standards so you don’t put your company at risk.
-
-![Consulting services for businesses](/images/consulting_services_for_businesses.jpg)
 
 ## What is an Ethics and Compliance Consultant? ##
 
