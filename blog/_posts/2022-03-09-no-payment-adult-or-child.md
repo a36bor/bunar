@@ -1,14 +1,12 @@
 ---
-id: 225
 title: 'No payment — adult or child'
 date: '2022-03-09T20:12:03+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=225'
 permalink: /blog/no-payment-adult-or-child.html
 image: bimg/no-payment-adult-or-child.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 24-year-old unemployed man presents to the emergency department with a complaint of a sore knee which has not been injured recently but occasionally gives way (most likely, a chronic injury of the cartilage of the knee joint).
 ---
 
 A 24-year-old unemployed man presents to the emergency department with a complaint of a sore knee which has not been injured recently but occasionally gives way (most likely, a chronic injury of the cartilage of the knee joint).
