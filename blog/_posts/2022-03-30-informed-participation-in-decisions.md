@@ -1,14 +1,12 @@
 ---
-id: 86
 title: 'Informed participation in decisions'
 date: '2022-03-30T16:36:25+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=86'
 permalink: /blog/informed-participation-in-decisions.html
 image: bimg/informed-participation-in-decisions.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 50-year-old man is brought to the emergency department for evaluation of lethargy. The patient has alcohol on his breath. There were also some sleeping pills in his apartment when his friend found him.
 ---
 
 A 50-year-old man is brought to the emergency department for evaluation of lethargy. The patient has alcohol on his breath. There were also some sleeping pills in his apartment when his friend found him.
