@@ -1,14 +1,12 @@
 ---
-id: 237
 title: 'Delegating the notification of death to others'
 date: '2022-01-29T19:41:23+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=237'
 permalink: /blog/delegating-the-notification-of-death-to-others.html
 image: bimg/delegating-the-notification-of-death-to-others.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Paramedics were summoned to aid a 70-year-old woman in cardiac arrest. They attempted to resuscitate her, but on arrival at the emergency department the patient was still unresponsive and was pronounced dead.
 ---
 
 Paramedics were summoned to aid a 70-year-old woman in cardiac arrest. They attempted to resuscitate her, but on arrival at the emergency department the patient was still unresponsive and was pronounced dead.
