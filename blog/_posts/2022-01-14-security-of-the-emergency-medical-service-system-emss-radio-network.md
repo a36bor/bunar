@@ -1,14 +1,12 @@
 ---
-id: 107
 title: 'Security of the emergency medical service system (emss) radio network'
 date: '2022-01-14T03:42:18+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=107'
 permalink: /blog/security-of-the-emergency-medical-service-system-emss-radio-network.html
 image: bimg/security-of-the-emergency-medical-service-system-emss-radio-network.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Two paramedics radio to the hospital that they are bringing in a 54-year-old man with chronic lung disease. They state that he is on “10 or 20” medications, but he does not have them all with him, and he does not know what they are.
 ---
 
 Two paramedics radio to the hospital that they are bringing in a 54-year-old man with chronic lung disease. They state that he is on “10 or 20” medications, but he does not have them all with him, and he does not know what they are.
