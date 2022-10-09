@@ -1,14 +1,12 @@
 ---
-id: 111
 title: 'When not to resuscitate'
 date: '2022-02-10T18:08:03+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=111'
 permalink: /blog/when-not-to-resuscitate.html
 image: bimg/when-not-to-resuscitate.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Seventy-year-old Morris Brook is brought into the emergency department by ambulance. His family explains that his breathing has been getting progressively worse over the past two days and that he has metastatic cancer of the prostate for which he has been receiving only palliative treatment.
 ---
 
 Seventy-year-old Morris Brook is brought into the emergency department by ambulance. His family explains that his breathing has been getting progressively worse over the past two days and that he has metastatic cancer of the prostate for which he has been receiving only palliative treatment.
