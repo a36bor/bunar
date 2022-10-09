@@ -1,14 +1,12 @@
 ---
-id: 94
 title: 'Uncertain diagnosis and the uncooperative patient'
 date: '2022-03-10T21:09:20+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=94'
 permalink: /blog/uncertain-diagnosis-and-the-uncooperative-patient.html
 image: bimg/uncertain-diagnosis-and-the-uncooperative-patient.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 23-year-old female drug abuser presents with a history of malaise, generalized weakness, and fevers for the past month. She uses heroin intravenously and several other drugs intermittently.
 ---
 
 A 23-year-old female drug abuser presents with a history of malaise, generalized weakness, and fevers for the past month. She uses heroin intravenously and several other drugs intermittently.
