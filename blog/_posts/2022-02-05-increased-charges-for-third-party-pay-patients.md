@@ -1,14 +1,12 @@
 ---
-id: 223
 title: 'Increased charges for third-party pay patients'
 date: '2022-02-05T23:53:00+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=223'
 permalink: /blog/increased-charges-for-third-party-pay-patients.html
 image: bimg/increased-charges-for-third-party-pay-patients.jpg
-categories:
-    - blog
+tags: [Blog]
+description: The emergency physician began his shift an hour ago and has already seen five patients, all with the viral syndrome that is going around. None of these patients have insurance, so the physician bills them at a minimal rate for his services.
 ---
 
 The emergency physician began his shift an hour ago and has already seen five patients, all with the viral syndrome that is going around. None of these patients have insurance, so the physician bills them at a minimal rate for his services.
