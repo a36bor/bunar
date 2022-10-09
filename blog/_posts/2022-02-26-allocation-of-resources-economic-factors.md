@@ -1,14 +1,12 @@
 ---
-id: 219
 title: 'Allocation of resources: economic factors'
 date: '2022-02-26T08:30:44+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=219'
 permalink: /blog/allocation-of-resources-economic-factors.html
 image: bimg/allocation-of-resources-economic-factors.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A “wino” with pneumonia and septic shock arrives in an emergency department, obviously requiring admission to an ICU bed, but the hospital has no available beds.
 ---
 
 A “wino” with pneumonia and septic shock arrives in an emergency department, obviously requiring admission to an ICU bed, but the hospital has no available beds.
