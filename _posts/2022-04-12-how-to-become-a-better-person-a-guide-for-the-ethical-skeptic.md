@@ -3,6 +3,7 @@ layout: post
 title:  "How to Become a Better Person: A Guide for the Ethical Skeptic"
 date:   2022-04-12
 image:  images/2022/how-to-become-a-better-person-a-guide-for-the-ethical-skeptic.jpg
+description: Are you a skeptic who’s looking to lead an ethical life? Do you value reason and evidence, but have trouble consistently applying those principles to your own behavior? Are you a human being, who wants to become a better one? If so – rejoice!
 ---
 
 
