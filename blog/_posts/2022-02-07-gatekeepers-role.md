@@ -1,14 +1,12 @@
 ---
-id: 227
 title: '“Gatekeepers” role'
 date: '2022-02-07T07:03:01+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=227'
 permalink: /blog/gatekeepers-role.html
 image: bimg/gatekeepers-role.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A two-year-old child with a rectal temperature of 102°F is brought into the emer­gency department at 2:00 a.m. by his parents because of the fever. He is fussy and is pulling at his left ear.
 ---
 
 A two-year-old child with a rectal temperature of 102°F is brought into the emer­gency department at 2:00 a.m. by his parents because of the fever. He is fussy and is pulling at his left ear.
