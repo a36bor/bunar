@@ -1,14 +1,12 @@
 ---
-id: 245
 title: 'Solo nurse in the emergency department'
 date: '2022-03-28T09:57:53+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=245'
 permalink: /blog/solo-nurse-in-the-emergency-department.html
 image: bimg/solo-nurse-in-the-emergency-department.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 24-year-old man arrives in the small community emergency department in the middle of the night with epistaxis (nosebleed). The nursing staff are the only ones present in the hospital.
 ---
 
 A 24-year-old man arrives in the small community emergency department in the middle of the night with epistaxis (nosebleed). The nursing staff are the only ones present in the hospital.
