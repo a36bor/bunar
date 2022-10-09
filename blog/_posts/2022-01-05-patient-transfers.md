@@ -1,14 +1,12 @@
 ---
-id: 209
 title: 'Patient transfers'
 date: '2022-01-05T18:45:58+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=209'
 permalink: /blog/patient-transfers.html
 image: bimg/patient-transfers.jpg
-categories:
-    - blog
+tags: [Blog]
+description: Two paramedics are called to the home of a 60-year-old man (Mr. Smith) suffering from chest pain. Vital signs reveal a blood pressure of 90/60, a pulse of 50 and irregular, and respirations of 24.
 ---
 
 Two paramedics are called to the home of a 60-year-old man (Mr. Smith) suffering from chest pain. Vital signs reveal a blood pressure of 90/60, a pulse of 50 and irregular, and respirations of 24.
