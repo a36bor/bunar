@@ -1,14 +1,12 @@
 ---
-id: 97
 title: 'Role of emergency medical technicians and paramedics: observer-trainees'
 date: '2022-03-25T12:41:02+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=97'
 permalink: /blog/role-of-emergency-medical-technicians-and-paramedics-observer-trainees.html
 image: bimg/role-of-emergency-medical-technicians-and-paramedics-observer-trainees.jpg
-categories:
-    - blog
+tags: [Blog]
+description: The paramedic trainee has had three years of ambulance experience and eighty additional hours of classroom training in emergency care. He is currently enrolled in additional classes.
 ---
 
 The paramedic trainee has had three years of ambulance experience and eighty additional hours of classroom training in emergency care. He is currently enrolled in additional classes.
