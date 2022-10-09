@@ -1,14 +1,12 @@
 ---
-id: 229
 title: 'Physician attitudes toward patients'
 date: '2022-04-01T05:57:47+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=229'
 permalink: /blog/physician-attitudes-toward-patients.html
 image: bimg/physician-attitudes-toward-patients.jpg
-categories:
-    - blog
+tags: [Blog]
+description: An 8-year-old child with a minor head injury is brought in to the emergency department and is judged by the physician to be completely normal. The parents say that a sibling had a skull fracture under similar circumstances and that they would sleep much better if a skull x-ray were taken.
 ---
 
 An 8-year-old child with a minor head injury is brought in to the emergency department and is judged by the physician to be completely normal. The parents say that a sibling had a skull fracture under similar circumstances and that they would sleep much better if a skull x-ray were taken.
