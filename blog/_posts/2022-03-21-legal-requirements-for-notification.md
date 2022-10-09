@@ -1,14 +1,12 @@
 ---
-id: 103
 title: 'Legal requirements for notification'
 date: '2022-03-21T18:41:55+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=103'
 permalink: /blog/legal-requirements-for-notification.html
 image: bimg/legal-requirements-for-notification.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A 30-year-old man comes to the emergency department claiming that he has been shot. He states that he is willing to undergo emergency tests and treatment only if the physician agrees not to call the police and that he will leave the emergency department if the physician does not promise this.
 ---
 
 A 30-year-old man comes to the emergency department claiming that he has been shot. He states that he is willing to undergo emergency tests and treatment only if the physician agrees not to call the police and that he will leave the emergency department if the physician does not promise this.
