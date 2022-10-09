@@ -1,14 +1,12 @@
 ---
-id: 211
 title: 'Good samaritan behavior and failure-to-stop laws'
 date: '2022-02-17T08:38:13+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=211'
 permalink: /blog/good-samaritan-behavior-and-failure-to-stop-laws.html
 image: bimg/good-samaritan-behavior-and-failure-to-stop-laws.jpg
-categories:
-    - blog
+tags: [Blog]
+description: You are driving to work when you come upon a two-car motor vehicle accident which has obviously just occurred. It appears that a number of people may be injured.
 ---
 
 You are driving to work when you come upon a two-car motor vehicle accident which has obviously just occurred. It appears that a number of people may be injured.
