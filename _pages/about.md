@@ -5,11 +5,12 @@ author: 'Lina Dolzhnenko'
 layout: page
 ---
 
+
+![About](/images/About_Bunar.jpg)
+
 A few types of ethical problems in emergency medicine have received considerable attention in discussions of medical ethics: cases of triage, for instance, and difficulties in obtaining patients’ informed consent.
 
 Our concern goes beyond these commonly acknowledged problems, however, to encompass every major aspect of emergency care: from medical students’ practicing new procedures on patients to conflicts among emergency department professionals, from cases of attempted suicide to patient transfers, from questions of confidentiality to the allocation of resources.
-
-![About](/images/About_Bunar.jpg)
 
 Our concern also goes beyond any one type of emergency care professional to include everyone who is involved: physicians, nurses, paramedics, administrators, and so on. Thus we offer a large number of cases illustrating a host of ethical problems.
 
