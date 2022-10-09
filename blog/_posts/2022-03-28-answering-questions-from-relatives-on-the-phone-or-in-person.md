@@ -1,14 +1,12 @@
 ---
-id: 105
 title: 'Answering questions from “relatives” on the phone or in person'
 date: '2022-03-28T00:02:17+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=105'
 permalink: /blog/answering-questions-from-relatives-on-the-phone-or-in-person.html
 image: bimg/answering-questions-from-relatives-on-the-phone-or-in-person.jpg
-categories:
-    - blog
+tags: [Blog]
+description: The emergency department in the hospital nearest a certain college campus has admitted four 22-year-old college seniors in the past half hour.
 ---
 
 The emergency department in the hospital nearest a certain college campus has admitted four 22-year-old college seniors in the past half hour.
