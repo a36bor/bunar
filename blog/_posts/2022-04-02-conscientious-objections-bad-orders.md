@@ -1,14 +1,12 @@
 ---
-id: 243
 title: 'Conscientious objections (bad orders)'
 date: '2022-04-02T01:21:11+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=243'
 permalink: /blog/conscientious-objections-bad-orders.html
 image: bimg/conscientious-objections-bad-orders.jpg
-categories:
-    - blog
+tags: [Blog]
+description: An 18-year-old asthmatic with an acute exacerbation of her condition arrives in the emergency department. The examining physician asks the nurse to give the patient 0.3 cc of epinephrine, 1:10,000 dilution.
 ---
 
 An 18-year-old asthmatic with an acute exacerbation of her condition arrives in the emergency department. The examining physician asks the nurse to give the patient 0.3 cc of epinephrine, 1:10,000 dilution.
