@@ -3,6 +3,7 @@ layout: post
 title:  "The Basics of Ethics: 5 Things You Need to Know to Be an Ethical Person"
 date:   2022-04-14
 image:  images/2022/the-basics-of-ethics-5-things-you-need-to-know-to-be-an-ethical-person.jpg
+description: Being an ethical person goes beyond simply not breaking the law. In fact, there are many laws that are unethical and breakable. Being an ethical person means living in a way that is fair and compassionate, while also being honest and responsible.
 ---
 
 
