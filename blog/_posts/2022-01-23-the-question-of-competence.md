@@ -1,14 +1,12 @@
 ---
-id: 88
 title: 'The question of competence'
 date: '2022-01-23T09:20:02+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=88'
 permalink: /blog/the-question-of-competence.html
 image: bimg/the-question-of-competence.jpg
-categories:
-    - blog
+tags: [Blog]
+description: The next set of case studies, in which three patients with varying degrees of injury and different prognoses are described, is designed to raise the question of the role of the severity of the patient’s injury in the determination of his competence.
 ---
 
 The next set of case studies, in which three patients with varying degrees of injury and different prognoses are described, is designed to raise the question of the role of the severity of the patient’s injury in the determination of his competence.
