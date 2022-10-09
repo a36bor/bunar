@@ -1,17 +1,15 @@
 ---
-id: 76
 title: 'Aspects of ethics in emergency medicine'
 date: '2022-01-26T05:24:46+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=76'
 permalink: /blog/aspects-of-ethics-in-emergency-medicine.html
 image: bimg/aspects-of-ethics-in-emergency-medicine.jpg
-categories:
-    - blog
+tags: [Blog]
+description: A basic thesis of this website is that ethical problems are common in the emergency department – much more common than is usually recognized. The difficult ethical dilemmas of emergency medicine have not attracted the widespread attention enjoyed by other areas of medicine, however. 
 ---
 
-A basic thesis of this website is that ethical problems are common in the emergency department – much more common than is usually recognized. The difficult ethical di­lemmas of emergency medicine have not attracted the widespread attention enjoyed by other areas of medicine, however.
+A basic thesis of this website is that ethical problems are common in the emergency department – much more common than is usually recognized. The difficult ethical dilemmas of emergency medicine have not attracted the widespread attention enjoyed by other areas of medicine, however.
 
 Most medical ethics websites tend to concentrate on care for chronic – or at least relatively stable – problems rather than on the acute, episodic care typical in the emergency department.
 
