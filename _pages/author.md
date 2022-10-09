@@ -3,6 +3,7 @@ title: Author
 date: '2022-04-06T11:52:44+00:00'
 author: 'Lina Dolzhnenko'
 layout: page
+description: Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field.
 ---
 
 Highly qualified orthopedic surgeon with 3 years of experience in the industry and training from one of the top medical colleges in the country. Updated on the latest techniques and technologies in the field.
