@@ -1,14 +1,12 @@
 ---
-id: 82
 title: 'What is ethics?'
 date: '2022-04-01T05:57:08+00:00'
 author: 'Lina Dolzhnenko'
 layout: post
-guid: 'https://bunar.org/?p=82'
 permalink: /blog/what-is-ethics.html
 image: bimg/what-is-ethics.jpg
-categories:
-    - blog
+tags: [Blog]
+description: There is considerable difference of opinion and even confusion about what ethics is. Sometimes, the term “ethics” is used to refer to the conduct of a person or a group, as when it is said “His ethics are questionable”.
 ---
 
 There is considerable difference of opinion and even confusion about what ethics is. Sometimes, the term “ethics” is used to refer to the conduct of a person or a group, as when it is said “His ethics are questionable”.
