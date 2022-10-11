@@ -3,6 +3,7 @@ title: Contact
 date: '2022-04-06T11:49:01+00:00'
 author: 'Lina Dolzhnenko'
 layout: page
+description: Madison Avenue 315
 ---
 
 
