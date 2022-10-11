@@ -3,6 +3,7 @@ title: About
 date: '2022-04-06T11:47:26+00:00'
 author: 'Lina Dolzhnenko'
 layout: page
+description: A few types of ethical problems in emergency medicine have received considerable attention in discussions of medical ethics: cases of triage, for instance, and difficulties in obtaining patients’ informed consent. 
 ---
 
 
