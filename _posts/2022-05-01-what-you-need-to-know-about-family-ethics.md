@@ -48,15 +48,15 @@ In order for family ethics to be effective, parents must be able to teach their 
 
 There are many reasons why family ethics are important, including the following:
 
-Helps children understand their role in society
+1. Helps children understand their role in society
 
-Builds strong family relationships
+2. Builds strong family relationships
 
-Promotes positive self-esteem
+3. Promotes positive self-esteem
 
-Provides children with positive role models
+4. Provides children with positive role models
 
-Helms children in making the right decision when faced with a moral dilemma
+5. Helms children in making the right decision when faced with a moral dilemma
 
 <a id="go3"> </a>
 ## Raising Children With Good Manners and Etiquette
