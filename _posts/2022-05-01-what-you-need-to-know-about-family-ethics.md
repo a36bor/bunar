@@ -9,13 +9,24 @@ description: With the ongoing debate on moral values, family ethics have become 
 
 With the ongoing debate on moral values, family ethics have become crucial in every household. Today, a large number of parents are worried about how to raise their children with strong and positive values that will help them grow as responsible adults.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> What Is Family Ethics? </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Why is Family Ethics Important? </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Raising Children With Good Manners and Etiquette </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Raising Children With Strong Moral Values </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Raising Children Who Are Responsible Citizens </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+</ol> 
+
 However, these concerns are not something new or sudden; in fact, they are part of a much longer tradition of thinking about how people should live their lives. An individual’s actions are determined by their beliefs and principles.
 
 When it comes to family ethics, it is important for parents to understand what kind of impact raising a child can have on their character.
 
 Family ethics plays an essential role in shaping your child’s behavior and character from the moment they start spending time together as a family. So keep reading to know more about this subject!
 
-
+<a id="go1"> </a>
 ## What Is Family Ethics?
 
 Family ethics is the study of the values, morals and behaviors that are common in the members of a family. It refers to the principles that guide the behavior of family members such as parents, children, and other relatives.
@@ -26,7 +37,7 @@ Family ethics studies family relationships, communication, and conflicts in ligh
 
 Family ethics overlaps with ethics in general, family psychology, and family studies. It can be distinguished from those fields by its specific focus on family members' values and actions as guided by these values.
 
-
+<a id="go2"> </a>
 ## Why is Family Ethics Important?
 
 The values that are taught to children while they are growing up will shape their beliefs and attitudes as an adult.
@@ -47,7 +58,7 @@ Provides children with positive role models
 
 Helms children in making the right decision when faced with a moral dilemma
 
-
+<a id="go3"> </a>
 ## Raising Children With Good Manners and Etiquette
 
 When children are growing up, parents spend a lot of time teaching them about social etiquette such as how to hold a fork or how to talk to their elders.
@@ -60,7 +71,7 @@ Good manners are something that should be reinforced at home. Parents can do thi
 
 In addition, parents should discuss the importance of good manners and etiquette in an age-appropriate manner with their children so that they understand the reason behind it.
 
-
+<a id="go4"> </a>
 ## Raising Children With Strong Moral Values
 
 Moral values describe how we should behave towards each other and the world around us. Each family has their own set of moral values that they try to instil in their children from a young age.
@@ -73,7 +84,7 @@ Parents can help their children develop strong moral values by showing them the 
 
 When children understand the importance of moral values, they are more likely to follow in their parents’ footsteps.
 
-
+<a id="go5"> </a>
 ## Raising Children Who Are Responsible Citizens
 
 Children are naturally curious and want to learn as much as they can. This is the perfect time for parents to teach their children about their role as a citizen.
@@ -84,7 +95,7 @@ Moral values, etiquette and citizenship are interrelated. Parents can show their
 
 Parents can also read stories and books to their children that feature positive role models to help them understand the importance of each of these values.
 
-
+<a id="go6"> </a>
 ## Conclusion
 
 Family ethics is an important part of raising children because it teaches them how to behave around others. These children will grow up to be responsible adults and will be able to make positive changes in the world.
