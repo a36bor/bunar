@@ -12,12 +12,12 @@ Political ethics is a branch of ethics which focuses on the standards of conduct
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What does Political Ethics mean? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Why is Political Ethics important? </a></li>
-  <li><a href="#go3" style="color: #DC143C"> The Importance of the Rule of Law </a></li>
-  <li><a href="#go4" style="color: #DC143C"> The Importance of Transparency and Disclosure Requirements </a></li>
-  <li><a href="#go5" style="color: #DC143C"> The Importance of Merging Conflicts of Interest Regulations and Ethical Requirements </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0000CD"> What does Political Ethics mean? </a></li>
+  <li><a href="#go2" style="color: #0000CD"> Why is Political Ethics important? </a></li>
+  <li><a href="#go3" style="color: #0000CD"> The Importance of the Rule of Law </a></li>
+  <li><a href="#go4" style="color: #0000CD"> The Importance of Transparency and Disclosure Requirements </a></li>
+  <li><a href="#go5" style="color: #0000CD"> The Importance of Merging Conflicts of Interest Regulations and Ethical Requirements </a></li>
+  <li><a href="#go6" style="color: #0000CD"> Conclusion </a></li>
 </ol> 
 
 Get this: Most people think about politics as something that does not involve morals or principles, but rather just a contest of egos. But, in reality, it’s so much more than that.
