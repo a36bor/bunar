@@ -9,6 +9,20 @@ description: Marketing and advertising are two of the most important functions i
 
 Marketing and advertising are two of the most important functions in any business. If you want your brand to succeed, you need to develop a marketing plan and advertise your products as much as possible.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> Don’t be manipulative </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Don’t try to trick people into buying your product </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Don’t lie </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Don’t waste people’s time </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Don’t manipulate emotions with ad tricks </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Do be transparent </a></li>
+  <li><a href="#go7" style="color: #DC143C"> Do be human </a></li>
+  <li><a href="#go8" style="color: #DC143C"> Do encourage people to take action </a></li>
+  <li><a href="#go9" style="color: #DC143C"> Summary </a></li>
+</ol> 
+
 However, marketing and advertising can also be dangerous for your business if not done ethically.
 
 This is because people can see right through disingenuous efforts to sell something, which means that any attempt at marketing or advertising needs to be genuine rather than artificial.
@@ -17,7 +31,7 @@ If you don’t follow these 10 ethical guidelines when doing marketing and adver
 
 Keeping these principles in mind will help you avoid making that mistake in the first place.
 
-
+<a id="go1"> </a>
 ## Don’t be manipulative
 
 The very definition of manipulation is to control or influence someone’s behaviour through deception, which is something you should never do in marketing. Instead, you should always be honest and genuine in your attempt to sell your product.
@@ -28,7 +42,7 @@ You should also never try to control what people think, feel or do with your mar
 
 People should always feel like they’re in control of the conversation, and they should never feel as if they’re being manipulated in any way.
 
-
+<a id="go2"> </a>
 ## Don’t try to trick people into buying your product
 
 You should never try to trick people into buying your product. For example, you shouldn’t try to trick people into clicking on your ads or buying your product with a misleading headline or product name.
@@ -39,14 +53,14 @@ Instead, they want to feel as if you’re genuinely offering something that will
 
 You should also never try to trick your customers into buying your product with a misleading product name.
 
-
+<a id="go3"> </a>
 ## Don’t lie
 
 Lying is one of the most unethical things you can do in any aspect of your life, but it’s also something that marketers do all the time. For example, brands that have sponsorship deals with athletes often lie about their partnership with them.
 
 This is an extremely unethical practice and is something that needs to stop. When you lie, you break the trust that your customers have in your brand, which could lead to you losing sales and your business failing.
 
-
+<a id="go4"> </a>
 ## Don’t waste people’s time
 
 Marketing campaigns and ads are designed specifically to get people to take action. However, you shouldn’t waste your customers’ time with long-winded or unnecessary content.
@@ -57,7 +71,7 @@ You also shouldn’t try to create long-winded marketing campaigns that try to c
 
 But if your video ad is unnecessarily long, you could be wasting your customers’ time and confusing them. This can lead to people clicking away from your ad, which means you could lose sales.
 
-
+<a id="go5"> </a>
 ## Don’t manipulate emotions with ad tricks
 
 Advertising is designed to appeal to the emotions of your audience. This is because appealing to the emotions of your customers is the best way to get them to take action.
@@ -68,7 +82,7 @@ These types of ad tricks are designed to manipulate your customers’ emotions b
 
 However, your customers will likely see right through this type of advertising and resent you for trying to manipulate them. This could lead to your customers feeling regret afterward and never buying from you again.
 
-
+<a id="go6"> </a>
 ## Do be transparent
 
 Marketers often try to create an air of mystery around their brands and products, which leads to customers questioning everything about them.
@@ -79,7 +93,7 @@ Instead, you should always be transparent about your business, products and serv
 
 Doing so will help you avoid falling into the trap of trying to create an air of mystery around your brand. It will also help you avoid people questioning your practices and wondering if you’re trustworthy.
 
-
+<a id="go7"> </a>
 ## Do be human
 
 Marketers often try to create an image of professionalism, but this could go too far. For example, brands often use overly formal language and acronyms that their customers don’t understand.
@@ -88,7 +102,7 @@ This is a common mistake that marketers make, but it’s one that could go too f
 
 This could lead to your customers feeling like you’re distant and unapproachable, which could make them feel uncomfortable buying from you. Doing this could lead to your business having low sales, which could put you at risk of failing.
 
-
+<a id="go8"> </a>
 ## Do encourage people to take action
 
 Marketers often try to create a sense of urgency around their products, but they often take this too far. For example, brands might tell their customers that they only have a few hours to buy their product.
@@ -99,7 +113,7 @@ This could make them feel uncomfortable and take longer than normal to purchase 
 
 Instead, you should always try to encourage your audience to take action by setting a specific goal in their mind. You can do this by telling them why your product is right for them and how it will improve their life.
 
-
+<a id="go9"> </a>
 ## Summary
 
 Marketing and advertising are two of the most important functions of any business. However, these activities can become unethical if they are not conducted in the right way.
