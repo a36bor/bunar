@@ -9,13 +9,24 @@ description: When it comes to your career as a lawyer, you may be wondering how 
 
 When it comes to your career as a lawyer, you may be wondering how ethics and laws intersect. Both ethics and the law serve as important guidelines for social conduct, but they are different in many ways.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> What is the Difference Between Ethics and Law? </a></li>
+  <li><a href="#go2" style="color: #DC143C"> The Importance of Understanding the Relationship Between Ethics and Law </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Distinguishing between Ethics and Law </a></li>
+  <li><a href="#go4" style="color: #DC143C"> When the Law and Ethical Standards Collide </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Finding Common Ground Between Ethics and Law </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Key Takeaway </a></li>
+</ol> 
+
 Although ethical standards generally operate outside of legal statutes, it’s important that lawyers are knowledgeable in both areas.
 
 If you’re confused about the relationship between ethics and laws when it comes to being a lawyer, read on to learn more.
 
 In this article, we’ll explain the relationship between ethics and laws as well as explore some examples of when these elements come into play in the practice of law.
 
-
+<a id="go1"> </a>
 ## What is the Difference Between Ethics and Law?
 
 While ethics and laws both serve as guidelines for social conduct, they often differ in terms of scope, purpose, and jurisdiction.
@@ -26,7 +37,7 @@ Ethical standards may be broader in scope but more specific in application than 
 
 Ethical standards and laws are often in direct conflict, but it’s important that lawyers understand both areas so that they can navigate these situations appropriately.
 
-
+<a id="go2"> </a>
 ## The Importance of Understanding the Relationship Between Ethics and Law
 
 The relationship between ethics and laws is important because it provides an additional layer of clarity for the public regarding what’s acceptable and what isn’t.
@@ -39,7 +50,7 @@ Additionally, it’s important to bear in mind that while ethics and laws are bo
 
 Sometimes, these two elements come into conflict with one another, and it’s important that lawyers are prepared to handle these situations.
 
-
+<a id="go3"> </a>
 ## Distinguishing between Ethics and Law
 
 While ethics and laws both serve as guidelines for social conduct, there are some important distinctions between the two. Ethical standards generally operate outside of legal statutes, but they are often influenced by laws.
@@ -50,7 +61,7 @@ Laws are often general in nature, whereas ethical standards are more specific in
 
 Ethical standards and laws are both important for maintaining a functional and healthy society. While laws help to enforce social standards, ethics help to define those standards.
 
-
+<a id="go4"> </a>
 ## When the Law and Ethical Standards Collide
 
 Lawyers are often placed in situations in which ethical and legal standards come into conflict with one another. When this happens, it’s important that you understand how to navigate these situations.
@@ -61,7 +72,7 @@ It’s important that you’re familiar with the different scenarios in which la
 
 If there’s a particular situation in which law and ethics are in conflict, it’s important to seek guidance from your supervising attorney.
 
-
+<a id="go5"> </a>
 ## Finding Common Ground Between Ethics and Law
 
 While law and ethical standards are frequently in conflict with one another, it’s possible to find common ground between the two. If you come across a situation in which law and ethical standards are in conflict with one another, it’s important that you take the time to carefully examine both sides of the argument.
@@ -70,7 +81,7 @@ With careful consideration, you may be able to identify common ground between la
 
 In some cases, common ground may be difficult to find, and you’ll be forced to choose between two seemingly bad options. It’s important that you carefully consider the situation and come to your own conclusion about how to proceed.
 
-
+<a id="go6"> </a>
 ## Key Takeaway
 
 The relationship between ethics and laws is important because it provides an additional layer of clarity for the public regarding what’s acceptable and what isn’t.
