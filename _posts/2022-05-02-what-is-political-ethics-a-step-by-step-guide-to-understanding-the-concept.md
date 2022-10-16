@@ -54,6 +54,8 @@ Hence, any debate concerning the nature of ethics inevitably involves questions 
 
 Ethical principles can be applied to any field, profession, or activity. Ethics apply to the work of political parties and their activities, and they also apply to political decision-making.
 
+![Why is Political Ethics important?](/images/2022/10/Why-is-Political-Ethics-important.png)
+
 They cover the conduct of political parties, politicians, and government officials. In other words, they address the conduct of public officials and the obligations and responsibilities of being a public official.
 
 Ethics also cover the duties, obligations, and responsibilities of people who interact with public officials, for example, members of the media, experts, and other stakeholders, such as members of the public.
@@ -67,6 +69,8 @@ The rule of law is an essential part of what makes a country a democracy because
 
 The rule of law also means that the government must follow whatever laws exist, rather than treating them as optional or having the discretion to pick and choose which laws to enforce.
 
+![The Importance of the Rule of Law](/images/2022/10/The-Importance-of-the-Rule-of-Law.png)
+
 The rule of law is a necessary component of a functioning democracy. Without it, the government has almost unlimited power over the people, which could easily turn into tyranny.
 
 Because the rule of law is such an essential part of democratic governance, it needs to be protected. Otherwise, there’s a risk that the government will use its vast power to weaken or even destroy democracy.
@@ -79,6 +83,8 @@ This can happen in a number of ways, such as selectively enforcing the law, enac
 A large part of the rule of law is transparency. Governments are allowed to keep some things confidential, but they must disclose any information that is deemed relevant or important to the public interest.
 
 This includes information related to government budgets, policy objectives, and performance metrics. Transparency is necessary in order to hold governments accountable.
+
+![The Importance of Transparency and Disclosure Requirements](/images/2022/10/The-Importance-of-Transparency-and-Disclosure-Requirements.png)
 
 If the public doesn’t know what the government is doing, it’s impossible to hold them responsible for their actions. Citizens have a right to know what their government is doing and how the government collects and spends money.
 
@@ -94,6 +100,8 @@ There is a trend nowadays toward the adoption of “blind trusts” to deal with
 The idea behind a blind trust is that the person in question transfers their assets to a third party who manages them without the person knowing what they are invested in.
 
 This way, the person in question is not in a position to profit from their position. A problem with this approach, however, is that it is not transparent, and therefore it is impossible for citizens to know whether the person in question is complying with the rules or not.
+
+![The Importance of Merging Conflicts of Interest Regulations and Ethical Requirements](/images/2022/10/The-Importance-of-Merging-Conflicts-of-Interest-Regulations-and-Ethical-Requirements.png)
 
 A better approach is to make the rules governing conflicts of interest public and transparent, and to have independent bodies that can investigate potential violations and impose sanctions when necessary.
 
