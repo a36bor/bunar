@@ -13,7 +13,7 @@ The word “teleological” comes from the Greek words teleos ("end", "goal") an
 
 In this article, we will explore different variations of teleological ethics, including Utilitarianism, Eudaimonistic Ethics, Ethical Intentionalism, and Virtue Ethics.
 
-
+<a id="go1"> </a>
 ## Utilitarianism
 
 The term “utilitarianism” was first used in the 19th century and derives from the concept of “utility”, which refers to the usefulness of something.
@@ -28,7 +28,7 @@ In utilitarianism, the ultimate criterion for judging the moral value of an acti
 
 This can be done by either maximizing pleasure or minimizing suffering. In other words, a utilitarian considers the ends of an action to outweigh whatever means were used to achieve them.
 
-
+<a id="go2"> </a>
 ## Eudaimonistic Ethics
 
 Eudaimonism is a teleological ethical theory, and one of the oldest forms of virtue ethics.
@@ -39,14 +39,14 @@ While there are a number of variations of eudaimonism, all of them share the bas
 
 Eudaimonism is also sometimes referred to as “Aristotelian ethics”, “Aristotelian teleological ethics”, or “Aristotelian virtue ethics”.
 
-
+<a id="go3"> </a>
 ## Ethical Intentionalism
 
 Ethical intentionalism is a version of ethical theory that’s closely related to deontological ethics. Ethical intentionalism is associated with the work of the American philosopher Charles S. Peirce, whose concept of “pragmaticism” is often conflated with it.
 
 Ethical intentionalism is a teleological ethical theory, and its main idea is that the “rightness” of an action can only be determined in relation to the intention behind it. A given action is morally right if the intention behind it is ethically good.
 
-
+<a id="go4"> </a>
 ## Virtue Ethics
 
 Aristotle’s iteration of eudaimonism was the first system of virtue ethics. In contemporary ethics, virtue ethics is the dominant form of teleological ethics.
@@ -55,7 +55,7 @@ There are many different versions of virtue ethics, but most share the assumptio
 
 In Aristotle’s virtue ethics, the virtues are the qualities of character that enable us to flourish. This is often referred to as the “human good” or the “good life”.
 
-
+<a id="go5"> </a>
 ## Summing up
 
 This article has explored different variations of teleological ethics, including Utilitarianism, Eudaimonistic Ethics, Ethical Intentionalism, and Virtue Ethics.
