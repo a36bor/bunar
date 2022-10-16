@@ -9,13 +9,26 @@ description: Ethics have been and remain a fundamental consideration for all ani
 
 Ethics have been and remain a fundamental consideration for all animal research. There can be no doubt that the use of animals in scientific research, testing, and experimentation causes them pain and distress.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> The Importance of Ethics in Research Using Animals </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Why is the Use of Animals in Research Ethically Problematic? </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Which Activities Require an Ethical Review? </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Confining and Breeding Animals for Research </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Selecting Animal Subjects </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Testing Pharmaceuticals on Animals </a></li>
+  <li><a href="#go7" style="color: #DC143C"> Genetically Engineering Animals to Grow Human Organs </a></li>
+  <li><a href="#go8" style="color: #DC143C"> Conclusion </a></li>
+</ol> 
+
 This is why it has always been considered necessary to justify any such use by demonstrating that it is justified either by its potential to produce a net benefit or reduce suffering in humans and animals.
 
 This article presents an overview of ethical standards regarding the use of animals in research and testing.
 
 It covers both general principles regarding the use of animals in human-centered activities, as well as specific principles regarding their use in particular contexts such as medical research, zoological gardens, or pet keeping.
 
-
+<a id="go1"> </a>
 ## The Importance of Ethics in Research Using Animals
 
 The use of animals in scientific research raises ethical issues. The most important ones are the possibility of harm to the animals themselves and the potential consequences for human health and well-being.
@@ -30,7 +43,7 @@ For example, to study an infectious disease, it might be possible to study the d
 
 Where such options are available, the use of animals in research should be justified by showing that the research question cannot be answered by studying humans or natural settings.
 
-
+<a id="go2"> </a>
 ## Why is the Use of Animals in Research Ethically Problematic?
 
 The use of animals in research, testing, and experimentation is ethically problematic for a number of reasons. First, it causes animals pain and distress. This is not a minor problem: It is inherent in the very nature of the activities.
@@ -41,7 +54,7 @@ The fact that animals are subjected to these experiences for the benefit of huma
 
 This is why it must be justified on ethical grounds: Because it causes animals pain, it is not permissible unless there is a pressing human need that cannot be met in any other way.
 
-
+<a id="go3"> </a>
 ## Which Activities Require an Ethical Review?
 
 Many activities involving animals require an ethical review. The most important ones are research, testing, and the breeding of animals for research.
@@ -50,7 +63,7 @@ In addition, keeping animals in captivity, such as in a zoo, or as a pet, requir
 
 In general, activities that involve killing animals require an ethical review, including the harvesting of organs and blood, or the killing of animals for food or pest control.
 
-
+<a id="go4"> </a>
 ## Confining and Breeding Animals for Research
 
 Some animals are bred for research, testing, and experimentation, and others are confined for the same purposes. In both cases, the animals are subjected to significant distress and suffering.
@@ -59,7 +72,7 @@ In the case of breeding, animals are subjected to painful procedures, often with
 
 In some cases, for example, rodents are kept in social isolation, which is detrimental to their psychological wellbeing. In both cases, these conditions are necessary for the research, testing, and experimentation to take place.
 
-
+<a id="go5"> </a>
 ## Selecting Animal Subjects
 
 Many researchers claim that they are conducting “humane” research, but humane research is neither humane nor ethical. Humane research means that the researcher minimizes the pain and distress caused to the animals involved.
@@ -68,7 +81,7 @@ Ethical research means that the researcher has justified the need to cause pain 
 
 However, in some cases, the researcher has to select animal subjects that will be in significant pain and distress. This happens, for example, when researchers are studying pain-related behaviour, such as the response to the withdrawal of opiates after administering them.
 
-
+<a id="go6"> </a>
 ## Testing Pharmaceuticals on Animals
 
 Testing pharmaceuticals on animals can cause them pain and distress. In some cases, this can be reduced by using lower doses of drugs, or combining drugs with an inert substance, or by other means.
@@ -79,7 +92,7 @@ In other cases, the harmful effects of a drug can be tested by inducing a diseas
 
 In some cases, the research can be conducted on human cells or tissues instead of on animals. However, in other cases, the only way to find out if a drug will harm humans is to test it on animals.
 
-
+<a id="go7"> </a>
 ## Genetically Engineering Animals to Grow Human Organs
 
 Constructing human organs in animals, such as pigs, is ethically problematic. The pigs have to be kept in conditions that are harmful to their wellbeing, and they have to be killed either before or after they have been used to grow the organ.
@@ -88,7 +101,7 @@ In addition, the organ has to be removed and assessed, and then has to be transp
 
 There is no ethical way to grow human organs in animals. The only way to produce organs for human transplantation is to induce the pigs to grow the organs, and then kill them.
 
-
+<a id="go8"> </a>
 ## Conclusion
 
 Animals are sentient beings, and their feelings matter. This is why their well-being should be taken seriously when using them in scientific research.
