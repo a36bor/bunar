@@ -8,8 +8,20 @@ description: Behavior analysts have used a variety of methods to conduct researc
 
 Behavior analysts have used a variety of methods to conduct research, analyze data, and ask questions. In this blog post we will explore the ethical considerations of behavior analysts. Behavior analysis is a scientific field that applies principles from biology, psychology, and other fields to understand behavior.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> Who is a Behavior Analyst? </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Research with Human Participants </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Working with Animals </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Working in Educational and Counselling Settings </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Behavioural Consultancy </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+</ol> 
+
 This means that behavior analysts follow strict principles to ensure their research is valid and trustworthy. However, as with any job or field of study, there are ethical implications when working as a behavior analyst or conducting behavioral research. This blog post serves as an introduction to some of the ethical considerations for behavior analysts across various settings and roles.
 
+<a id="go1"> </a>
 ## Who is a Behavior Analyst? ##
 
 A behavior analyst is a person who applies principles from biology, psychology, and other fields to understand behavior and improve quality of life. This includes working in many different settings and roles, such as counselling, research, education, and applied service delivery.
@@ -20,6 +32,7 @@ They involve people in their own change, help people improve quality of life, an
 
 They may design experiments and collect data, use statistics to make sense of data, and report findings. A behavior analyst may also share their findings with others to inform practice, policy, and decision making.
 
+<a id="go2"> </a>
 ## Research with Human Participants ##
 
 Research with human participants is a core aspect of many behavioral fields, including applied behavioral analysis, clinical psychology, and health psychology. When researchers work with human participants, they typically follow the ethical guidelines from the American Psychological Association (APA).
@@ -30,6 +43,7 @@ To determine if a study requires IRB review, researchers use the “minimal risk
 
 For example, a researcher studying parenting techniques in a small sample of families would need IRB approval if they are manipulating the families’ behavior. If the researcher is simply observing parenting techniques without changing the families’ behavior, then the research is likely minimal risk.
 
+<a id="go3"> </a>
 ## Working with Animals ##
 
 Working with animals is a common practice in many fields of research. In Applied Behavior Analysis, working with animals is common in the fields of applied animal studies and applied and translational rodent studies.
@@ -40,6 +54,7 @@ For example, researchers must use species-inclusive or species-relevant research
 
 When conducting research with animals, researchers need to consider the impact the research may have on the animals. Researchers must also ensure that the research is relevant to the species and that it can be applied to humans.
 
+<a id="go4"> </a>
 ## Working in Educational and Counselling Settings ##
 
 When working in educational and counselling settings, such as early intervention, special education, or school counselling, behavior analysts must follow ethical guidelines for those fields.
@@ -52,6 +67,7 @@ Although many of these interventions have been shown to be effective, they may n
 
 Working in educational settings also means working with a variety of stakeholders, including teachers, administrators, students, parents, and other professionals. It is important to be mindful of these relationships and how they may influence the work.
 
+<a id="go5"> </a>
 ## Behavioural Consultancy ##
 
 Behavioral consulting is the application of behavior analysis in real-world settings. It often requires the application of research findings and the development of new or modified behavior-change programs.
@@ -62,6 +78,7 @@ For example, when designing an intervention, researchers need to follow the same
 
 This includes making sure the intervention is relevant to the client, the setting is appropriate, the intervention is reliable across practitioners, and the intervention is valid and reliable.
 
+<a id="go6"> </a>
 ## Conclusion ##
 
 Behavior analysts have used a variety of methods to conduct research, analyze data, and ask questions. In this blog post we will explore the ethical considerations of behavior analysts.
