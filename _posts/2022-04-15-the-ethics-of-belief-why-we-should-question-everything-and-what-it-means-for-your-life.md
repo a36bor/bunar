@@ -9,6 +9,17 @@ description: How do you know what’s right and what’s wrong? How do you know 
 
 How do you know what’s right and what’s wrong? How do you know how to live your life? What does it even mean to be a good person? These are all questions that keep us up at night, and the answers to them aren’t always easy to find.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> The Importance of Beliefs </a></li>
+  <li><a href="#go2" style="color: #DC143C"> The Problem With Beliefs: They’re Hard to Find and Hold Onto </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Why You Should Question Everything </a></li>
+  <li><a href="#go4" style="color: #DC143C"> What It Means to Question Everything </a></li>
+  <li><a href="#go5" style="color: #DC143C"> How to Question Everything: Be A Skeptic, Not a Cynic </a></li>
+  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+</ol> 
+
 Thankfully, with the rise of the internet and social media, we have instant access to essentially any information we want — including information that helps us grapple with some of life’s most challenging conundrums.
 
 But many people struggle to find their own beliefs in this world of contradicting ideas.
@@ -17,6 +28,7 @@ In fact, it’s been shown that about 50% of Americans believe there is no such 
 
 We might not know exactly who first said this famous quote, but it seems like something that has been floating around for quite some time: Everyone is entitled to their own opinions, but not their own facts.
 
+<a id="go1"> </a>
 ## The Importance of Beliefs ##
 
 We all have beliefs, whether we recognize them or not. They are the filters through which we view the world, and they can be incredibly powerful.
@@ -29,6 +41,7 @@ If you think you can’t find love, you probably won’t be able to. Our beliefs
 
 That’s why it’s so important to hold on to beliefs that are based in reality and facts, rather than ones that are based on nothing at all.
 
+<a id="go2"> </a>
 ## The Problem With Beliefs: They’re Hard to Find and Hold Onto ##
 
 Unfortunately, beliefs can be really tricky to pin down. We can’t just look in the mirror and say “I believe I’m beautiful”, and suddenly feel beautiful.
@@ -41,6 +54,7 @@ Ideas about what is right and what is wrong and what is good and what is bad are
 
 In fact, research suggests that around 50% of people don’t really have their own set of core beliefs — and instead, they just sort of adopt the beliefs of whomever they’re closest to and spend the most time with.
 
+<a id="go3"> </a>
 ## Why You Should Question Everything ##
 
 Questioning everything is the best way to find your own set of beliefs. If you want to be sure that your beliefs are rooted in something real, and that they’re helping you become the person you want to be, then you need to question everything.
@@ -53,6 +67,7 @@ You should be a skeptic, not a cynic. A cynic has a closed mind; they think they
 
 A skeptic, on the other hand, is someone who is incredibly open-minded and wants to find the truth in everything. They want to see past the hype and understand what something truly is and how it can help them.
 
+<a id="go4"> </a>
 ## What It Means to Question Everything ##
 
 When you question everything, you’re asking yourself questions like: Why do I believe this? What is the evidence that backs up this belief? What is another way to look at this situation that might lead to a different conclusion?
@@ -63,6 +78,7 @@ You can’t just trust everything that you read or hear. You can’t just trust 
 
 You have to question everything and sort through the facts to make sure that what you believe is an honest representation of reality.
 
+<a id="go5"> </a>
 ## How to Question Everything: Be A Skeptic, Not a Cynic ##
 
 There are a couple of different tactics you can use to question everything and to avoid falling into the trap of being a cynical jerk. The first is to be diligent in your research.
@@ -75,6 +91,7 @@ The other thing you can do is to surround yourself with people who think differe
 
 You’re never going to learn anything new. If you want to challenge yourself and make sure that your beliefs are based in reality, then you need to be around people who challenge you and make you uncomfortable.
 
+<a id="go6"> </a>
 ## Conclusion ##
 
 The Ethics of Belief: Why We Should Question Everything and What It Means for Your Life The more you question your beliefs, the easier it will be to find the right ones and hold onto them.
