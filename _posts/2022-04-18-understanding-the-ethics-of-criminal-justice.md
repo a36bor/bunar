@@ -9,6 +9,16 @@ description: Criminal justice is a field with many competing interests and ethic
 
 Criminal justice is a field with many competing interests and ethical dilemmas. On one hand, the criminal justice system is designed to uphold the rule of law and punish those who break the law.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> What is Criminal Justice? </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Rule of Law </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Rehabilitation and Incarceration </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Bail and Sentencing: Competing Ethics </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Conclusion </a></li>
+</ol> 
+
 On the other hand, it’s also a system that should seek to rehabilitate individuals rather than simply lock them up. Once you begin studying criminal justice in-depth, you will start to see how these two goals can be in direct opposition to each other at times.
 
 At what point does punishment cross over into abuse? When is locking someone away for their own good unethical? These are just some of the questions that arise from an understanding of the ethics of criminal justice.
@@ -17,7 +27,7 @@ If you want to pursue a career in criminal justice, it’s important to understa
 
 Read on for more information about this complex field and how these ethics will help you make informed decisions about your future as an aspiring criminologist.
 
-
+<a id="go1"> </a>
 ## What is Criminal Justice?
 
 Criminal Justice is the study of the legal system and its functions, including the process by which law breakers are identified, arrested, tried, and sentenced.
@@ -28,7 +38,7 @@ Criminology is the scientific study of the nature, causes, prevention, and contr
 
 Criminologists have been studying the behavior of criminals since the mid-18th century. Early criminologists concentrated on the causes of crime, but by the end of the 19th century, they began to explore the methods for controlling crime.
 
-
+<a id="go2"> </a>
 ## Rule of Law
 
 The rule of law is the principle under which all people are considered equal under the law. It is essential to maintaining a functional, democratic society. At the same time, however, it also means that there are certain restrictions on what people can do.
@@ -39,7 +49,7 @@ The primary function of criminal law is to punish individuals who break the law,
 
 The primary function of civil law is to resolve disputes between people or organizations through the application of law.
 
-
+<a id="go3"> </a>
 ## Rehabilitation and Incarceration
 
 Rehabilitation is the goal of rehabilitation is to rehabilitate the offender to make them a productive member of society again. As a society, we have a goal to rehabilitate people and try to prevent crime.
@@ -50,7 +60,7 @@ The more severe the punishment, the stronger the message will be. The idea behin
 
 Rehabilitation and incarceration are two competing goals of the criminal justice system. However, these two goals can also be mutually reinforcing. If a person is rehabilitated, their likelihood of re-offending will be reduced. On the other hand, if a person is incarcerated, they can’t commit any more crimes.
 
-
+<a id="go4"> </a>
 ## Bail and Sentencing: Competing Ethics
 
 The decision to set bail or not is a perfect example of competing ethics in the criminal justice system. The prosecution wants to make sure that the defendant shows up for their court date.
@@ -61,7 +71,7 @@ Bail is supposed to be a way to make sure that everyone has the opportunity to r
 
 The same idea applies to sentencing. The prosecution wants the defendant to be punished for their deeds. However, there is a fine line between punishing a defendant and infringing on their right to due process.
 
-
+<a id="go5"> </a>
 ## Conclusion
 
 Criminal justice is a complex field with many ethical implications. It is important to understand these ethics and how they relate to each other in order to make informed decisions about a career in criminal justice.
