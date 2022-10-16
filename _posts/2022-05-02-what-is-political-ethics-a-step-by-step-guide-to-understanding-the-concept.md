@@ -35,6 +35,8 @@ Political ethics seeks to understand the nature of political action, identify th
 
 The field of political ethics is often divided into three subfields: historical political ethics, normative political ethics, and applied political ethics. Historical political ethics examines political action in the past.
 
+![What does Political Ethics mean?](/images/2022/10/What-does-Political-Ethics-mean.png)
+
 This subfield is especially interested in understanding the role ethics played in political action in the past and how it might illuminate action in the present.
 
 Normative political ethics involves the construction of moral judgments about political action. This subfield is interested in what political action should look like, given some understanding of the nature of the political realm.
