@@ -9,6 +9,16 @@ description: Teleological ethics is a type of ethical theory which focuses on th
 
 Teleological ethics is a type of ethical theory which focuses on the consequences of actions as opposed to their intentions. In other words, it’s an ethical system which judges the morality of a given action based on its effects rather than its motivation.
 
+<h6>Contents</h6>
+
+<ol>
+  <li><a href="#go1" style="color: #DC143C"> Utilitarianism </a></li>
+  <li><a href="#go2" style="color: #DC143C"> Eudaimonistic Ethics </a></li>
+  <li><a href="#go3" style="color: #DC143C"> Ethical Intentionalism </a></li>
+  <li><a href="#go4" style="color: #DC143C"> Virtue Ethics </a></li>
+  <li><a href="#go5" style="color: #DC143C"> Summing up </a></li>
+</ol> 
+
 The word “teleological” comes from the Greek words teleos ("end", "goal") and logos ("account" or "explanation"), so a teleological ethical theory is one that regards final or intended outcomes as the criteria for judging right and wrong conduct.
 
 In this article, we will explore different variations of teleological ethics, including Utilitarianism, Eudaimonistic Ethics, Ethical Intentionalism, and Virtue Ethics.
