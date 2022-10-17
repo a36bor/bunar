@@ -38,6 +38,8 @@ The very definition of manipulation is to control or influence someone’s behav
 
 This means you should never try to trick people into buying your product, and you should avoid using scare tactics like “limited time only!” or “offer ends soon!” when trying to promote your product.
 
+![Don’t be manipulative](/images/2022/04/28/Dont-be-manipulative.jpg)
+
 You should also never try to control what people think, feel or do with your marketing. For example, you shouldn’t try to control what people are talking about in order to make your product look better.
 
 People should always feel like they’re in control of the conversation, and they should never feel as if they’re being manipulated in any way.
@@ -49,6 +51,8 @@ You should never try to trick people into buying your product. For example, you 
 
 This is a common mistake that many businesses make, but it’s unethical and will only create a poor relationship between you and your audience. Your customers don’t want to feel as if they’re being tricked into buying something.
 
+![Don’t try to trick people into buying your product](/images/2022/04/28/Dont-try-to-trick-people-into-buying-your-product.jpg)
+
 Instead, they want to feel as if you’re genuinely offering something that will make their lives better. This means you should never try to trick your customers into clicking on your ads by using misleading headlines.
 
 You should also never try to trick your customers into buying your product with a misleading product name.
@@ -58,6 +62,8 @@ You should also never try to trick your customers into buying your product with 
 
 Lying is one of the most unethical things you can do in any aspect of your life, but it’s also something that marketers do all the time. For example, brands that have sponsorship deals with athletes often lie about their partnership with them.
 
+![Don’t lie](/images/2022/04/28/Dont-lie.jpg)
+
 This is an extremely unethical practice and is something that needs to stop. When you lie, you break the trust that your customers have in your brand, which could lead to you losing sales and your business failing.
 
 <a id="go4"> </a>
@@ -66,6 +72,8 @@ This is an extremely unethical practice and is something that needs to stop. Whe
 Marketing campaigns and ads are designed specifically to get people to take action. However, you shouldn’t waste your customers’ time with long-winded or unnecessary content.
 
 Instead, you should make your marketing as short and to the point as possible while still getting your message across. This means you shouldn’t try to create content that is longer than it needs to be.
+
+![Don’t waste people’s time](/images/2022/04/28/Dont-waste-peoples-time.jpg)
 
 You also shouldn’t try to create long-winded marketing campaigns that try to cover every aspect of your product. For example, you might want to create a video ad for your product.
 
@@ -78,6 +86,8 @@ Advertising is designed to appeal to the emotions of your audience. This is beca
 
 However, you shouldn’t try to manipulate their emotions with cheap tricks. For example, you might use slow motion or dramatic music in your ads, or you might use a repetitive phrase like “only one left!” or “only two hours left!”.
 
+![Don’t manipulate emotions with ad tricks](/images/2022/04/28/Dont-manipulate-emotions-with-ad-tricks.jpg)
+
 These types of ad tricks are designed to manipulate your customers’ emotions by getting them to buy your product immediately without thinking about it too much.
 
 However, your customers will likely see right through this type of advertising and resent you for trying to manipulate them. This could lead to your customers feeling regret afterward and never buying from you again.
@@ -89,6 +99,8 @@ Marketers often try to create an air of mystery around their brands and products
 
 For example, a brand might never release a statement about their products’ claims or where they are made. This is a common tactic that marketers use, but it’s not ethical.
 
+![Do be transparent](/images/2022/04/28/Do-be-transparent.jpg)
+
 Instead, you should always be transparent about your business, products and services. This means you should be upfront about your brand, products and promises.
 
 Doing so will help you avoid falling into the trap of trying to create an air of mystery around your brand. It will also help you avoid people questioning your practices and wondering if you’re trustworthy.
@@ -97,6 +109,8 @@ Doing so will help you avoid falling into the trap of trying to create an air of
 ## Do be human
 
 Marketers often try to create an image of professionalism, but this could go too far. For example, brands often use overly formal language and acronyms that their customers don’t understand.
+
+![Do be human](/images/2022/04/28/Do-be-human.jpg)
 
 This is a common mistake that marketers make, but it’s one that could go too far. Doing this could take away from the human element of your brand. It could also make people feel like they can’t approach you or talk to you.
 
@@ -108,6 +122,8 @@ This could lead to your customers feeling like you’re distant and unapproachab
 Marketers often try to create a sense of urgency around their products, but they often take this too far. For example, brands might tell their customers that they only have a few hours to buy their product.
 
 This is an unethical marketing tactic that you should never try. Doing this could lead to your customers feeling as if they’re being rushed into buying from you.
+
+![Do encourage people to take action](/images/2022/04/28/Do-encourage-people-to-take-action.jpg)
 
 This could make them feel uncomfortable and take longer than normal to purchase from your brand. This could lead to lower sales and your business failing as a result.
 
