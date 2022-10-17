@@ -35,6 +35,8 @@ Sales ethics is a set of principles that guide how sales are conducted within yo
 
 The goal of sales ethics is twofold: On one hand, it aims to protect your company’s reputation. On the other, it helps to build customer loyalty.
 
+![What is Sales Ethics?](/images/2022/04/30/What-is-Sales-Ethics.jpg)
+
 Depending on your industry, there may be specific rules and regulations that dictate how you conduct your sales. If so, those are part of your sales ethics strategy.
 
 Your sales ethics should extend to every customer-facing department in your company, including marketing, customer service, and account management.
@@ -45,6 +47,8 @@ Your sales ethics should extend to every customer-facing department in your comp
 Sales ethics is a critical part of any business. It not only helps you build trust with customers, but it also helps create a positive brand image.
 
 When your customers feel like you’re treating them fairly and honestly, they’re more likely to recommend your brand to others. This can have a major impact on your business and brand image over the long term.
+
+![Why is Sales Ethics Important?](/images/2022/04/30/Why-is-Sales-Ethics-Important.jpg)
 
 This is especially true in industries where repeat customer purchases are important. For example, the auto industry relies heavily on customer loyalty. If you’re selling cars, you want your customers to come back again in the future.
 
@@ -57,6 +61,8 @@ For example, in healthcare, customer loyalty and trust are essential. When patie
 
 For the most part, your sales ethics strategy should be built around the Golden Rule. In other words, you should be treating your customers the way you’d like to be treated.
 
+![How to Develop a Solid Sales Ethics Strategy?](/images/2022/04/30/How-to-Develop-a-Solid-Sales-Ethics-Strategy.jpg)
+
 Now, there are times when you might have to deviate from this rule, such as when a customer is trying to take advantage of you, or you have a legal reason for not making a certain sale.
 
 But for the most part, it’s a good rule of thumb to go by. If your industry has specific sales ethics rules or regulations, make sure your sales team is well versed in them. You can also consider adding those rules to your company handbook.
@@ -67,6 +73,8 @@ But for the most part, it’s a good rule of thumb to go by. If your industry ha
 Transparency is a crucial component of any solid sales ethics strategy. Let’s go back to the example of the car dealer. What would you think if that car dealer kept all the bad things about a car hidden from you?
 
 What if they didn’t tell you about the car’s accident history, maintenance needs, or other potential problems? You’d probably feel like they were trying to scam you.
+
+![The Importance of Transparency](/images/2022/04/30/The-Importance-of-Transparency.jpg)
 
 And, you’d probably never go back to that dealer again, let alone recommend the car brand to others. Instead, you want the car dealer to be upfront and honest about all the things that impact the car’s value.
 
@@ -79,6 +87,8 @@ When it comes to marketing, you want to be as upfront as possible. You don’t w
 
 This applies to any and all marketing channels, including websites, social media channels, email marketing campaigns, and more.
 
+![Don’t use misleading marketing practices](/images/2022/04/30/Dont-use-misleading-marketing-practices.jpg)
+
 If you’re promising certain benefits or features that your product doesn’t actually offer, you’re being misleading.
 
 The FTC is cracking down on false marketing claims these days. So, you need to be especially careful. If you can’t make a specific promise or feature, simply avoid saying it outright.
@@ -88,6 +98,8 @@ The FTC is cracking down on false marketing claims these days. So, you need to b
 
 One of the most basic parts of any sales ethics strategy is providing quality customer service.
 
+![Provide quality customer service](/images/2022/04/30/Provide-quality-customer-service.jpg)
+
 Whether a customer calls you on the phone or reaches out to you via email, you want to make sure you’re responding in a prompt and courteous way. If a customer has a complaint or problem, you want to address it as quickly as possible.
 
 No matter what the problem is, your customer service representatives need to be helpful and polite. And, if you can fix the problem, you should do so as quickly as possible.
@@ -96,6 +108,8 @@ No matter what the problem is, your customer service representatives need to be 
 ## Should you have an in-house Counsel`s office?
 
 In some industries, it’s common to have an in-house attorney. This person is responsible for making sure your sales team adheres to your sales ethics strategy.
+
+![Should you have an in-house Counsel`s office?](/images/2022/04/30/Should-you-have-an-in-house-Counsels-office.jpg)
 
 For example, if one of your salespeople has a potential sale that might violate your sales ethics strategy, they’ll run the sale by the attorney first. However, not every industry has this kind of system in place.
 
