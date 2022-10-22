@@ -33,6 +33,8 @@ While ethics and laws both serve as guidelines for social conduct, they often di
 
 Ethical standards are generally applied to a single profession or industry, while laws are broader in nature and apply to society as a whole.
 
+![What is the Difference Between Ethics and Law?](/images/2022/04/22/what-is-the-difference-between-ethics-and-law.jpg)
+
 Ethical standards may be broader in scope but more specific in application than laws. Additionally, ethical standards are generally created and maintained by the profession itself, whereas laws are created by governing bodies.
 
 Ethical standards and laws are often in direct conflict, but it’s important that lawyers understand both areas so that they can navigate these situations appropriately.
@@ -43,6 +45,8 @@ Ethical standards and laws are often in direct conflict, but it’s important th
 The relationship between ethics and laws is important because it provides an additional layer of clarity for the public regarding what’s acceptable and what isn’t.
 
 Ethical and legal standards provide a clear sense of what people can expect in terms of professional conduct, and these guidelines are there to protect the public from misconduct.
+
+![The Importance of Understanding the Relationship Between Ethics and Law](/images/2022/04/22/the-importance-of-understanding-the-relationship-between-ethics-and-law.jpg)
 
 When you’re studying to become a lawyer, it’s important that you understand the relationship between ethics and laws. This knowledge will help you navigate sticky situations, avoid ethical dilemmas, and deal with the expectations of the court system.
 
@@ -57,6 +61,8 @@ While ethics and laws both serve as guidelines for social conduct, there are som
 
 Laws are created by governing bodies such as the judicial system, public officials, or legislators; ethical standards are created by the profession itself. Ethical standards and laws are frequently in direct conflict with one another.
 
+![Distinguishing between Ethics and Law](/images/2022/04/22/distinguishing-between-ethics-and-law.jpg)
+
 Laws are often general in nature, whereas ethical standards are more specific in application.
 
 Ethical standards and laws are both important for maintaining a functional and healthy society. While laws help to enforce social standards, ethics help to define those standards.
@@ -68,6 +74,8 @@ Lawyers are often placed in situations in which ethical and legal standards come
 
 Most of the time, these situations are rare and arise when the law is in flux. Essentially, the law isn’t complete when it comes to a particular social issue, and ethical standards are forced to fill in the gaps.
 
+![When the Law and Ethical Standards Collide](/images/2022/04/22/when-the-law-and-ethical-standards-collide.jpg)
+
 It’s important that you’re familiar with the different scenarios in which law and ethical standards come into conflict. When this happens, it’s important that you evaluate both sets of standards and come to a decision.
 
 If there’s a particular situation in which law and ethics are in conflict, it’s important to seek guidance from your supervising attorney.
@@ -76,6 +84,8 @@ If there’s a particular situation in which law and ethics are in conflict, it�
 ## Finding Common Ground Between Ethics and Law
 
 While law and ethical standards are frequently in conflict with one another, it’s possible to find common ground between the two. If you come across a situation in which law and ethical standards are in conflict with one another, it’s important that you take the time to carefully examine both sides of the argument.
+
+![Finding Common Ground Between Ethics and Law](/images/2022/04/22/finding-common-ground-between-ethics-and-law.jpg)
 
 With careful consideration, you may be able to identify common ground between law and ethical standards. It’s important that you communicate your findings with your colleagues and supervising attorneys so that they are aware of your findings.
 
