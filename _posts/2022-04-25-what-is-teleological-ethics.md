@@ -32,6 +32,8 @@ Many people think of utilitarianism as a consequentialist ethical system, but it
 
 The terms “consequentialism” and “teleology” are often used as though they are interchangeable, but they’re not.
 
+![Utilitarianism](/images/2022/04/25/Utilitarianism.jpg)
+
 Broadly speaking, consequentialism is an ethical theory that judges the moral worth of an action by its consequences, whereas teleology refers to systems of ethics that place an emphasis on the ends or goals of actions.
 
 In utilitarianism, the ultimate criterion for judging the moral value of an action is the maximization of utility, or the greatest amount of good for the greatest number of people.
@@ -45,6 +47,8 @@ Eudaimonism is a teleological ethical theory, and one of the oldest forms of vir
 
 In ancient Greece, eudaimonism referred to the ethical theory of Aristotle, who argued that the ultimate end or goal of human action is the acquisition of eudaimonia, or the “good life”.
 
+![Eudaimonistic Ethics](/images/2022/04/25/Eudaimonistic-Ethics.jpg)
+
 While there are a number of variations of eudaimonism, all of them share the basic assumption that right or virtuous actions are those that enable us to flourish as human beings.
 
 Eudaimonism is also sometimes referred to as “Aristotelian ethics”, “Aristotelian teleological ethics”, or “Aristotelian virtue ethics”.
@@ -54,12 +58,16 @@ Eudaimonism is also sometimes referred to as “Aristotelian ethics”, “Arist
 
 Ethical intentionalism is a version of ethical theory that’s closely related to deontological ethics. Ethical intentionalism is associated with the work of the American philosopher Charles S. Peirce, whose concept of “pragmaticism” is often conflated with it.
 
+![Ethical Intentionalism](/images/2022/04/25/Ethical-Intentionalism.jpg)
+
 Ethical intentionalism is a teleological ethical theory, and its main idea is that the “rightness” of an action can only be determined in relation to the intention behind it. A given action is morally right if the intention behind it is ethically good.
 
 <a id="go4"> </a>
 ## Virtue Ethics
 
 Aristotle’s iteration of eudaimonism was the first system of virtue ethics. In contemporary ethics, virtue ethics is the dominant form of teleological ethics.
+
+![Virtue Ethics](/images/2022/04/25/Virtue-Ethics.jpg)
 
 There are many different versions of virtue ethics, but most share the assumption that virtuous actions are those that enable us to develop the virtues.
 
