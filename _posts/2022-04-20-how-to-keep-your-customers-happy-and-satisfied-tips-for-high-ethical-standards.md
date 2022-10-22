@@ -31,6 +31,8 @@ Here are some tips on how you can keep your business (and yourself) with high et
 
 First and foremost, you need to make sure your workers are well-versed in ethical standards. This means that they should be fully aware of what you expect of them, and they should have training in all areas.
 
+![Make sure your workers are well-trained and educated on ethical standards](/images/2022/04/20/make-sure-your-workers-are-well-trained-and-educated-on-ethical-standards.jpg)
+
 This will ensure that, even if something comes up that goes against your standards, they will know how to handle it correctly. It also allows you to keep your business honest, even if someone is not on your team.
 
 If someone from the local chamber of commerce comes in to check out your business, you want to make sure that your workers know to follow your high ethical standards at all times. If not, the rep will see right through you and your company.
@@ -39,6 +41,8 @@ If someone from the local chamber of commerce comes in to check out your busines
 ## Hiring practices should be based on ethics and trust
 
 You want to make sure that you’re hiring people based on their ethics and trustworthiness, not just their skills. While skills are important, you should be looking for people who don’t have to be watched every step of the way so they don’t do anything against your standards.
+
+![Hiring practices should be based on ethics and trust](/images/2022/04/20/hiring-practices-should-be-based-on-ethics-and-trust.jpg)
 
 If they need to be watched all the time, they’re not going to trust you, and they’re not going to work ethically in general. Instead, you want to be hiring employees that you can trust to do their jobs the right way, even when you’re not around.
 
@@ -49,6 +53,8 @@ Always remember to ask about their past jobs and what their thoughts on their pr
 
 You want to make sure that your employees are satisfied with their jobs and want to stay with you for the long haul, not just for the short term. One of the best ways to do this is by paying them well for the work they do.
 
+![Don’t skimp out on paying employees – pay them well for great work](/images/2022/04/20/dont-skimp-out-on-paying-employees--pay-them-well-for-great-work.jpg)
+
 Of course, you also don’t want to go overboard and pay them more than you can afford, but you definitely don’t want to be underpaying your workers. This is not only unethical, but it also leaves you open to lawsuits and complaints from your workers.
 
 If they are not satisfied with their pay, they may look for another job, or they may make a move to get more money from you. Neither of these are good signs.
@@ -58,6 +64,8 @@ If they are not satisfied with their pay, they may look for another job, or they
 
 You might be tempted to take shortcuts here and there to save time or money, but don’t do it. It might be tempting to use cheap materials or save money on a certain aspect of your business, but don’t do it.
 
+![Don’t take shortcuts or make your workers take shortcuts](/images/2022/04/20/dont-take-shortcuts-or-make-your-workers-take-shortcuts.jpg)
+
 This is another way to undermine your company’s ethical standards. You want to be upfront with your customers about the quality of your products and services, so don’t try to save money on the important aspects of your business.
 
 If you want to be seen as an ethical company, don’t take shortcuts. This goes for your business practices as well. Don’t make your workers take shortcuts; you want them to do everything to the best of their ability.
@@ -66,6 +74,8 @@ If you want to be seen as an ethical company, don’t take shortcuts. This goes 
 ## Be transparent with your customers, and always ask for their consent
 
 Being transparent with your customers is an important part of keeping ethical standards. Don’t try to pull any shady business practices, and don’t try to hide things from your customers.
+
+![Be transparent with your customers, and always ask for their consent](/images/2022/04/20/be-transparent-with-your-customers-and-always-ask-for-their-consent.jpg)
 
 This only leads to distrust and low ethical standards. You also want to make sure that you’re getting consent from your customers. This means that you need to be making sure they are informed about what they are getting into when they make a purchase with you.
 
