@@ -37,6 +37,8 @@ These two aspects of the ethical use of animals in research are related to each 
 
 However, there are limits to how far this can go. In some cases, the only way to conduct a given research project is by causing harm to the animals involved.
 
+![The Importance of Ethics in Research Using Animals](/images/2022/04/26/The-Importance-of-Ethics-in-Research-Using-Animals.jpg)
+
 In many cases, humans can pursue the research question in another way that does not involve harming animals.
 
 For example, to study an infectious disease, it might be possible to study the disease in humans who have been exposed to it, or to observe it in natural settings in which it occurs, rather than create experimental conditions in which it is induced in animals.
@@ -50,6 +52,8 @@ The use of animals in research, testing, and experimentation is ethically proble
 
 Because these activities are designed to produce data and results about humans (or animals other than the ones suffering), the animals involved undergo pain and distress for a purely instrumental end.
 
+![Why is the Use of Animals in Research Ethically Problematic?](/images/2022/04/26/Why-is-the-Use-of-Animals-in-Research-Ethically-Problematic.jpg)
+
 The fact that animals are subjected to these experiences for the benefit of humans means that the interests of the animals involved are not a decisive consideration.
 
 This is why it must be justified on ethical grounds: Because it causes animals pain, it is not permissible unless there is a pressing human need that cannot be met in any other way.
@@ -58,6 +62,8 @@ This is why it must be justified on ethical grounds: Because it causes animals p
 ## Which Activities Require an Ethical Review?
 
 Many activities involving animals require an ethical review. The most important ones are research, testing, and the breeding of animals for research.
+
+![Which Activities Require an Ethical Review?](/images/2022/04/26/Which-Activities-Require-an-Ethical-Review.jpg)
 
 In addition, keeping animals in captivity, such as in a zoo, or as a pet, requires an ethical review, as do some other activities such as dissection, disbudding, or other procedures that cause the animals short-term pain and distress.
 
@@ -68,6 +74,8 @@ In general, activities that involve killing animals require an ethical review, i
 
 Some animals are bred for research, testing, and experimentation, and others are confined for the same purposes. In both cases, the animals are subjected to significant distress and suffering.
 
+![Confining and Breeding Animals for Research](/images/2022/04/26/Confining-and-Breeding-Animals-for-Research.jpg)
+
 In the case of breeding, animals are subjected to painful procedures, often without painkillers, and kept in conditions that are not conducive to their health and wellbeing. In the case of confinement, animals are kept in conditions that do not allow them to behave in ways appropriate to their species.
 
 In some cases, for example, rodents are kept in social isolation, which is detrimental to their psychological wellbeing. In both cases, these conditions are necessary for the research, testing, and experimentation to take place.
@@ -76,6 +84,8 @@ In some cases, for example, rodents are kept in social isolation, which is detri
 ## Selecting Animal Subjects
 
 Many researchers claim that they are conducting “humane” research, but humane research is neither humane nor ethical. Humane research means that the researcher minimizes the pain and distress caused to the animals involved.
+
+![Selecting Animal Subjects](/images/2022/04/26/Selecting-Animal-Subjects.jpg)
 
 Ethical research means that the researcher has justified the need to cause pain and distress to the animals involved. Most research using animals does not involve causing them pain and distress, so the researcher only has to show that the conditions in which the animals are kept minimizes their pain and distress.
 
@@ -88,6 +98,8 @@ Testing pharmaceuticals on animals can cause them pain and distress. In some cas
 
 However, in some cases, no alternative to painful testing exists. In some cases, the only way to find out if a drug will be harmful to humans is to give it to animals under controlled conditions and observe the results.
 
+![Testing Pharmaceuticals on Animals](/images/2022/04/26/Testing-Pharmaceuticals-on-Animals.jpg)
+
 In other cases, the harmful effects of a drug can be tested by inducing a disease in the animals, such as by infecting them with a pathogen, and then testing its effects on them.
 
 In some cases, the research can be conducted on human cells or tissues instead of on animals. However, in other cases, the only way to find out if a drug will harm humans is to test it on animals.
@@ -96,6 +108,8 @@ In some cases, the research can be conducted on human cells or tissues instead o
 ## Genetically Engineering Animals to Grow Human Organs
 
 Constructing human organs in animals, such as pigs, is ethically problematic. The pigs have to be kept in conditions that are harmful to their wellbeing, and they have to be killed either before or after they have been used to grow the organ.
+
+![Genetically Engineering Animals to Grow Human Organs](/images/2022/04/26/Genetically-Engineering-Animals-to-Grow-Human-Organs.jpg)
 
 In addition, the organ has to be removed and assessed, and then has to be transplanted into a human being. In some cases, it can be transplanted back into the pig after it is killed. In other cases, the pig has to be killed in order to remove the organ and have it transplanted into a human being.
 
