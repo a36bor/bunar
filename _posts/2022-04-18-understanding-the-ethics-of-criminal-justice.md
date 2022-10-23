@@ -34,6 +34,8 @@ Criminal Justice is the study of the legal system and its functions, including t
 
 Criminal justice also refers to the administration of the law in relation to law enforcement and the operations of the legal system in relation to the correction of law breakers.
 
+![What is Criminal Justice?](/images/2022/04/18/what-is-criminal-justice.jpg)
+
 Criminology is the scientific study of the nature, causes, prevention, and control of criminal behavior. The criminologist is not concerned with the administration of criminal justice, but rather with the causes, prevention, and control of crime.
 
 Criminologists have been studying the behavior of criminals since the mid-18th century. Early criminologists concentrated on the causes of crime, but by the end of the 19th century, they began to explore the methods for controlling crime.
@@ -44,6 +46,8 @@ Criminologists have been studying the behavior of criminals since the mid-18th c
 The rule of law is the principle under which all people are considered equal under the law. It is essential to maintaining a functional, democratic society. At the same time, however, it also means that there are certain restrictions on what people can do.
 
 These laws exist to protect people and maintain order in society. Both criminal law and civil law are governed by the rule of law. Criminal law is the body of laws that relate to the prosecution of criminal offences.
+
+![Rule of Law](/images/2022/04/18/rule-of-law.jpg)
 
 The primary function of criminal law is to punish individuals who break the law, whether deliberately or through negligence. Civil law is the system of legal rules and regulations that regulate the conduct of people or organizations in relation to each other.
 
@@ -56,6 +60,8 @@ Rehabilitation is the goal of rehabilitation is to rehabilitate the offender to 
 
 At the same time, we also have a goal to punish criminals and keep society safe. These two goals are often in direct opposition to each other. Punishment is intended to serve as a deterrent against committing another crime.
 
+![Rehabilitation and Incarceration](/images/2022/04/18/rehabilitation-and-incarceration.jpg)
+
 The more severe the punishment, the stronger the message will be. The idea behind incarceration is that you remove the criminal from society so that they can’t commit any more crimes.
 
 Rehabilitation and incarceration are two competing goals of the criminal justice system. However, these two goals can also be mutually reinforcing. If a person is rehabilitated, their likelihood of re-offending will be reduced. On the other hand, if a person is incarcerated, they can’t commit any more crimes.
@@ -66,6 +72,8 @@ Rehabilitation and incarceration are two competing goals of the criminal justice
 The decision to set bail or not is a perfect example of competing ethics in the criminal justice system. The prosecution wants to make sure that the defendant shows up for their court date.
 
 After all, failing to show up for court would be a violation of the rule of law. However, people who don’t have a lot of money may not be able to afford bail. In this case, the rich person gets to go home while the poor person stays in jail.
+
+![Bail and Sentencing: Competing Ethics](/images/2022/04/18/bail-and-sentencing-competing-ethics.jpg)
 
 Bail is supposed to be a way to make sure that everyone has the opportunity to return to court and defend themselves. If a person doesn’t have the money to pay their bail, they may be held in jail until their trial.
 
