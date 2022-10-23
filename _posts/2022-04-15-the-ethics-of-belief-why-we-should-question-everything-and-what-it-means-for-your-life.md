@@ -35,6 +35,8 @@ We all have beliefs, whether we recognize them or not. They are the filters thro
 
 Beliefs can give us a sense of belonging and purpose, and they can even help us navigate through life. They can also be very dangerous — particularly when they’re not based in fact.
 
+![The Importance of Beliefs](/images/2022/04/15/the-importance-of-beliefs.jpg)
+
 Our beliefs and opinions have the power to create reality. If you think you can’t do something, you probably won’t be able to. If you think you can’t get a promotion at work, you probably won’t.
 
 If you think you can’t find love, you probably won’t be able to. Our beliefs need to be rooted in something real so that we can take the right steps toward achieving them.
@@ -47,6 +49,8 @@ That’s why it’s so important to hold on to beliefs that are based in reality
 Unfortunately, beliefs can be really tricky to pin down. We can’t just look in the mirror and say “I believe I’m beautiful”, and suddenly feel beautiful.
 
 Our beliefs are often rooted in things like culture, society, and family — things that can be incredibly difficult to separate ourselves from.
+
+![The Problem With Beliefs: They’re Hard to Find and Hold Onto](/images/2022/04/15/the-problem-with-beliefs-theyre-hard-to-find-and-hold-onto.jpg)
 
 This can make it incredibly difficult to find and hold onto beliefs about what is right and what is wrong, what is good and what is bad.
 
@@ -61,6 +65,8 @@ Questioning everything is the best way to find your own set of beliefs. If you w
 
 Questioning everything will help you separate facts from opinions, and it will help you find your own truths.
 
+![Why You Should Question Everything](/images/2022/04/15/why-you-should-question-everything.jpg)
+
 It’s important to remember that questioning everything isn’t done with the intent of tearing things down or being cynical — it’s done with the intent of building yourself up.
 
 You should be a skeptic, not a cynic. A cynic has a closed mind; they think they’ve seen it all and know everything there is to know — so why bother questioning anything?
@@ -74,6 +80,8 @@ When you question everything, you’re asking yourself questions like: Why do I 
 
 These are the types of questions that will help you break down your beliefs — and the beliefs of those around you — so that you can sort through everything and get to the bottom of things.
 
+![What It Means to Question Everything](/images/2022/04/15/what-it-means-to-question-everything.jpg)
+
 You can’t just trust everything that you read or hear. You can’t just trust everything that your friends believe or the culture you were raised in.
 
 You have to question everything and sort through the facts to make sure that what you believe is an honest representation of reality.
@@ -84,6 +92,8 @@ You have to question everything and sort through the facts to make sure that wha
 There are a couple of different tactics you can use to question everything and to avoid falling into the trap of being a cynical jerk. The first is to be diligent in your research.
 
 If you want to make sure that you’re being true to your beliefs, then you need to know where those beliefs came from in the first place. If you want to know if a certain politician’s policies are based in fact, then you need to do your research.
+
+![How to Question Everything: Be A Skeptic, Not a Cynic](/images/2022/04/15/how-to-question-everything-be-a-skeptic-not-a-cynic.jpg)
 
 If you want to know what is truly behind a company’s motives, then you need to do your research. If you want to know if something is safe for you and your family, then you need to do your research.
 
