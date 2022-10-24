@@ -3,7 +3,7 @@ layout: post
 title:  "What is Political Ethics? - A Step by Step Guide to Understanding the Concept"
 date:   2022-05-02
 image:  images/2022/what-is-political-ethics-a-step-by-step-guide-to-understanding-the-concept.jpg
-description: Political ethics is a branch of ethics which focuses on the standards of conduct, principles, and values that are applicable to politics or politicians. There are various principles regarding what is ethical and what is not when it comes to political behavior.
+description: Political ethics is a branch of ethics which focuses on the standards of conduct, principles, and values that are applicable to politics. 
 ---
 
 
