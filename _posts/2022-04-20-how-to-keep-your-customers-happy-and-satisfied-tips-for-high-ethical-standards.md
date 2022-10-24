@@ -3,7 +3,7 @@ layout: post
 title:  "How to Keep Your Customers Happy and Satisfied: Tips for High Ethical Standards"
 date:   2022-04-20
 image:  images/2022/how-to-keep-your-customers-happy-and-satisfied-tips-for-high-ethical-standards.jpg
-description: When it comes to running a business, you need all the help you can get. There are so many things to think about and keep track of when running your own company. Keeping high ethical standards is one that should not be overlooked.
+description: Being transparent with your customers is an important part of keeping ethical standards.
 ---
 
 
