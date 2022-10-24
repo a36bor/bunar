@@ -3,7 +3,7 @@ layout: post
 title:  "What is Teleological Ethics?"
 date:   2022-04-25
 image:  images/2022/what-is-teleological-ethics.jpg
-description: Teleological ethics is a type of ethical theory which focuses on the consequences of actions as opposed to their intentions. In other words, it’s an ethical system which judges the morality of a given action based on its effects rather than its motivation.
+description: Teleological ethics is a type of ethical theory which focuses on the consequences of actions as opposed to their intentions.
 ---
 
 
