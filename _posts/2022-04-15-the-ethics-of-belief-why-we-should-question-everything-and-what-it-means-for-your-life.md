@@ -3,7 +3,7 @@ layout: post
 title:  "The Ethics of Belief: Why We Should Question Everything and What It Means for Your Life"
 date:   2022-04-15
 image:  images/2022/the-ethics-of-belief-why-we-should-question-everything-and-what-it-means-for-your-life.jpg
-description: How do you know what’s right and what’s wrong? How do you know how to live your life? What does it even mean to be a good person? These are all questions that keep us up at night, and the answers to them aren’t always easy to find.
+description: The more you question your beliefs, the easier it will be to find the right ones and hold onto them.
 ---
 
 
