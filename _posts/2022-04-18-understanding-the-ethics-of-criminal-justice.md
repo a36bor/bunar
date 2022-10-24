@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding the Ethics of Criminal Justice"
 date:   2022-04-18
 image:  images/2022/understanding-the-ethics-of-criminal-justice.jpg
-description: Criminal justice is a field with many competing interests and ethical dilemmas. On one hand, the criminal justice system is designed to uphold the rule of law and punish those who break the law.
+description: Criminal justice is a field with many competing interests and ethical dilemmas.
 ---
 
 
