@@ -3,7 +3,7 @@ layout: post
 title:  "10 Ethical Guidelines to Follow When Doing Marketing and Advertising"
 date:   2022-04-28
 image:  images/2022/10-ethical-guidelines-to-follow-when-doing-marketing-and-advertising.jpg
-description: Marketing and advertising are two of the most important functions in any business. If you want your brand to succeed, you need to develop a marketing plan and advertise your products as much as possible.
+description: Marketing and advertising are two of the most important functions in any business.
 ---
 
 
