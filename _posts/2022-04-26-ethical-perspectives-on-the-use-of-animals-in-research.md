@@ -3,7 +3,7 @@ layout: post
 title:  "Ethical Perspectives on the Use of Animals in Research"
 date:   2022-04-26
 image:  images/2022/ethical-perspectives-on-the-use-of-animals-in-research.jpg
-description: Ethics have been and remain a fundamental consideration for all animal research. There can be no doubt that the use of animals in scientific research, testing, and experimentation causes them pain and distress.
+description: Ethics have been and remain a fundamental consideration for all animal research.
 ---
 
 
