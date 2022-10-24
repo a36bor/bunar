@@ -3,7 +3,7 @@ layout: post
 title:  "Sales Ethics, What you need to know"
 date:   2022-04-30
 image:  images/2022/sales-ethics-what-you-need-to-know.jpg
-description: Today’s consumers are more informed and discerning than ever before. As a result, your brand can no longer get away with selling anything and everything. Your customers expect more from you.
+description: Sales ethics is a set of principles that guide how sales are conducted within your organization.
 ---
 
 
