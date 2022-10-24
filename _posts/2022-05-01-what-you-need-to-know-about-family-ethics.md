@@ -3,7 +3,7 @@ layout: post
 title:  "What You Need to Know About Family Ethics"
 date:   2022-05-01
 image:  images/2022/what-you-need-to-know-about-family-ethics.jpg
-description: With the ongoing debate on moral values, family ethics have become crucial in every household. Today, a large number of parents are worried about how to raise their children with strong and positive values that will help them grow as responsible adults.
+description: Family ethics is the study of the values, morals and behaviors that are common in the members of a family.
 ---
 
 
