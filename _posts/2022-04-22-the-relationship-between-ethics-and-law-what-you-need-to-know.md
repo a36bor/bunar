@@ -3,7 +3,7 @@ layout: post
 title:  "The Relationship Between Ethics and Law: What You Need to Know"
 date:   2022-04-22
 image:  images/2022/the-relationship-between-ethics-and-law-what-you-need-to-know.jpg
-description: When it comes to your career as a lawyer, you may be wondering how ethics and laws intersect. Both ethics and the law serve as important guidelines for social conduct, but they are different in many ways.
+description: Ethical standards and laws are both important for maintaining a functional and healthy society.
 ---
 
 
