@@ -12,13 +12,13 @@ Are you a skeptic who’s looking to lead an ethical life? Do you value reason a
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What is a virtue? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Become an ethical skeptic </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Be skeptical in all things </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Be brave </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Be just </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Be knowledgeable and wise </a></li>
-  <li><a href="#go7" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> What is a virtue? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Become an ethical skeptic </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Be skeptical in all things </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Be brave </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Be just </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Be knowledgeable and wise </a></li>
+  <li><a href="#go7" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 You’ve come to the right place. There are many self-help books and articles about improving your character. But what if you want something a little different? Better people are kinder, wiser, more honest, more courageous and more compassionate.
