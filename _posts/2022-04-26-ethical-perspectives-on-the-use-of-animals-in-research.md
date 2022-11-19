@@ -12,14 +12,14 @@ Ethics have been and remain a fundamental consideration for all animal research.
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> The Importance of Ethics in Research Using Animals </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Why is the Use of Animals in Research Ethically Problematic? </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Which Activities Require an Ethical Review? </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Confining and Breeding Animals for Research </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Selecting Animal Subjects </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Testing Pharmaceuticals on Animals </a></li>
-  <li><a href="#go7" style="color: #DC143C"> Genetically Engineering Animals to Grow Human Organs </a></li>
-  <li><a href="#go8" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> The Importance of Ethics in Research Using Animals </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Why is the Use of Animals in Research Ethically Problematic? </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Which Activities Require an Ethical Review? </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Confining and Breeding Animals for Research </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Selecting Animal Subjects </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Testing Pharmaceuticals on Animals </a></li>
+  <li><a href="#go7" style="color: #0A66C2"> Genetically Engineering Animals to Grow Human Organs </a></li>
+  <li><a href="#go8" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 This is why it has always been considered necessary to justify any such use by demonstrating that it is justified either by its potential to produce a net benefit or reduce suffering in humans and animals.
