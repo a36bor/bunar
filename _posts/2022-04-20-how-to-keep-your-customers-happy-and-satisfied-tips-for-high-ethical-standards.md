@@ -12,12 +12,12 @@ When it comes to running a business, you need all the help you can get. There ar
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> Make sure your workers are well-trained and educated on ethical standards </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Hiring practices should be based on ethics and trust </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Don’t skimp out on paying employees – pay them well for great work </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Don’t take shortcuts or make your workers take shortcuts </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Be transparent with your customers, and always ask for their consent </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> Make sure your workers are well-trained and educated on ethical standards </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Hiring practices should be based on ethics and trust </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Don’t skimp out on paying employees – pay them well for great work </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Don’t take shortcuts or make your workers take shortcuts </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Be transparent with your customers, and always ask for their consent </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 It’s important to your business and your customers. With so many options out there for potential customers, if you want them coming back again and again, you need to stand out from the crowd with excellent service and trustworthiness.
