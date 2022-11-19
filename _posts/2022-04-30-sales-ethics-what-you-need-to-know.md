@@ -12,14 +12,14 @@ Today’s consumers are more informed and discerning than ever before. As a resu
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What is Sales Ethics? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Why is Sales Ethics Important? </a></li>
-  <li><a href="#go3" style="color: #DC143C"> How to Develop a Solid Sales Ethics Strategy? </a></li>
-  <li><a href="#go4" style="color: #DC143C"> The Importance of Transparency </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Don’t use misleading marketing practices </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Provide quality customer service </a></li>
-  <li><a href="#go7" style="color: #DC143C"> Should you have an in-house Counsel`s office? </a></li>
-  <li><a href="#go8" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> What is Sales Ethics? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Why is Sales Ethics Important? </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> How to Develop a Solid Sales Ethics Strategy? </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> The Importance of Transparency </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Don’t use misleading marketing practices </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Provide quality customer service </a></li>
+  <li><a href="#go7" style="color: #0A66C2"> Should you have an in-house Counsel`s office? </a></li>
+  <li><a href="#go8" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 They want to know why they should buy your products over those of your competitors. To answer this question, you need to have a rock-solid sales ethics strategy in place.
