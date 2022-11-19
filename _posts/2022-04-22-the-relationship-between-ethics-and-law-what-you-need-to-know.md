@@ -12,12 +12,12 @@ When it comes to your career as a lawyer, you may be wondering how ethics and la
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What is the Difference Between Ethics and Law? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> The Importance of Understanding the Relationship Between Ethics and Law </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Distinguishing between Ethics and Law </a></li>
-  <li><a href="#go4" style="color: #DC143C"> When the Law and Ethical Standards Collide </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Finding Common Ground Between Ethics and Law </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Key Takeaway </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> What is the Difference Between Ethics and Law? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> The Importance of Understanding the Relationship Between Ethics and Law </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Distinguishing between Ethics and Law </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> When the Law and Ethical Standards Collide </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Finding Common Ground Between Ethics and Law </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Key Takeaway </a></li>
 </ol> 
 
 Although ethical standards generally operate outside of legal statutes, it’s important that lawyers are knowledgeable in both areas.
