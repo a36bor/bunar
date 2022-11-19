@@ -72,7 +72,8 @@ layout: default
 					<div class="recent-box">
 						{% for post in site.posts offset:0 limit:3 %}
 						<div class="recent-posts">
-							<div class="recent-posts__content">			
+							<div class="recent-posts__content">
+								        <hr color="red" size="20">
                                                                         <hr style="border-width: 10px; border-color: red;">
 									<p class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></p>
 							</div>
