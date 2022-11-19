@@ -12,12 +12,12 @@ Being an ethical person goes beyond simply not breaking the law. In fact, there 
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> Be honest </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Be kind </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Be fair and equitable </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Be transparent and accountable </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Be diligent and responsive to feedback </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> Be honest </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Be kind </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Be fair and equitable </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Be transparent and accountable </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Be diligent and responsive to feedback </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 Rather than being someone who simply avoids doing bad things, you can be an ethical person by following a set of basic principles that guide your actions.
