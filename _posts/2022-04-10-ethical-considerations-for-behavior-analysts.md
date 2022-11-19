@@ -11,12 +11,12 @@ Behavior analysts have used a variety of methods to conduct research, analyze da
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> Who is a Behavior Analyst? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Research with Human Participants </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Working with Animals </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Working in Educational and Counselling Settings </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Behavioural Consultancy </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> Who is a Behavior Analyst? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Research with Human Participants </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Working with Animals </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Working in Educational and Counselling Settings </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Behavioural Consultancy </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 This means that behavior analysts follow strict principles to ensure their research is valid and trustworthy. However, as with any job or field of study, there are ethical implications when working as a behavior analyst or conducting behavioral research. This blog post serves as an introduction to some of the ethical considerations for behavior analysts across various settings and roles.
