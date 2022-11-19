@@ -12,12 +12,12 @@ How do you know what’s right and what’s wrong? How do you know how to live y
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> The Importance of Beliefs </a></li>
-  <li><a href="#go2" style="color: #DC143C"> The Problem With Beliefs: They’re Hard to Find and Hold Onto </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Why You Should Question Everything </a></li>
-  <li><a href="#go4" style="color: #DC143C"> What It Means to Question Everything </a></li>
-  <li><a href="#go5" style="color: #DC143C"> How to Question Everything: Be A Skeptic, Not a Cynic </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> The Importance of Beliefs </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> The Problem With Beliefs: They’re Hard to Find and Hold Onto </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Why You Should Question Everything </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> What It Means to Question Everything </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> How to Question Everything: Be A Skeptic, Not a Cynic </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 Thankfully, with the rise of the internet and social media, we have instant access to essentially any information we want — including information that helps us grapple with some of life’s most challenging conundrums.
