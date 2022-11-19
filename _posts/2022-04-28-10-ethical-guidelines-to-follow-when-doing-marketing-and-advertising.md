@@ -12,15 +12,15 @@ Marketing and advertising are two of the most important functions in any busines
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> Don’t be manipulative </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Don’t try to trick people into buying your product </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Don’t lie </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Don’t waste people’s time </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Don’t manipulate emotions with ad tricks </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Do be transparent </a></li>
-  <li><a href="#go7" style="color: #DC143C"> Do be human </a></li>
-  <li><a href="#go8" style="color: #DC143C"> Do encourage people to take action </a></li>
-  <li><a href="#go9" style="color: #DC143C"> Summary </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> Don’t be manipulative </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Don’t try to trick people into buying your product </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Don’t lie </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Don’t waste people’s time </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Don’t manipulate emotions with ad tricks </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Do be transparent </a></li>
+  <li><a href="#go7" style="color: #0A66C2"> Do be human </a></li>
+  <li><a href="#go8" style="color: #0A66C2"> Do encourage people to take action </a></li>
+  <li><a href="#go9" style="color: #0A66C2"> Summary </a></li>
 </ol> 
 
 However, marketing and advertising can also be dangerous for your business if not done ethically.
