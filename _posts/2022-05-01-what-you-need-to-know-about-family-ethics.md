@@ -12,12 +12,12 @@ With the ongoing debate on moral values, family ethics have become crucial in ev
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What Is Family Ethics? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Why is Family Ethics Important? </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Raising Children With Good Manners and Etiquette </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Raising Children With Strong Moral Values </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Raising Children Who Are Responsible Citizens </a></li>
-  <li><a href="#go6" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> What Is Family Ethics? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Why is Family Ethics Important? </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Raising Children With Good Manners and Etiquette </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Raising Children With Strong Moral Values </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Raising Children Who Are Responsible Citizens </a></li>
+  <li><a href="#go6" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 However, these concerns are not something new or sudden; in fact, they are part of a much longer tradition of thinking about how people should live their lives. An individual’s actions are determined by their beliefs and principles.
