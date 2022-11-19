@@ -12,11 +12,11 @@ Criminal justice is a field with many competing interests and ethical dilemmas. 
 <h6>Contents</h6>
 
 <ol>
-  <li><a href="#go1" style="color: #DC143C"> What is Criminal Justice? </a></li>
-  <li><a href="#go2" style="color: #DC143C"> Rule of Law </a></li>
-  <li><a href="#go3" style="color: #DC143C"> Rehabilitation and Incarceration </a></li>
-  <li><a href="#go4" style="color: #DC143C"> Bail and Sentencing: Competing Ethics </a></li>
-  <li><a href="#go5" style="color: #DC143C"> Conclusion </a></li>
+  <li><a href="#go1" style="color: #0A66C2"> What is Criminal Justice? </a></li>
+  <li><a href="#go2" style="color: #0A66C2"> Rule of Law </a></li>
+  <li><a href="#go3" style="color: #0A66C2"> Rehabilitation and Incarceration </a></li>
+  <li><a href="#go4" style="color: #0A66C2"> Bail and Sentencing: Competing Ethics </a></li>
+  <li><a href="#go5" style="color: #0A66C2"> Conclusion </a></li>
 </ol> 
 
 On the other hand, it’s also a system that should seek to rehabilitate individuals rather than simply lock them up. Once you begin studying criminal justice in-depth, you will start to see how these two goals can be in direct opposition to each other at times.
